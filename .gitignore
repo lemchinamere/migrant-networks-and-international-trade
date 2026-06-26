@@ -5,6 +5,9 @@
 # Exclude regenerable intermediate objects, the large CEPII file,
 # personal documents, third-party copyrighted material, and OS/editor junk.
 
+# --- Tooling / local config ---
+.claude/
+
 # --- OS / editor junk ---
 .DS_Store
 **/.DS_Store
