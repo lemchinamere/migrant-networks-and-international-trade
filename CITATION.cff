@@ -12,6 +12,7 @@ type: software
 authors:
   - family-names: Chinamere
     given-names: Lisa Erin Mesoma
+    orcid: "https://orcid.org/0009-0008-2355-4184"
     affiliation: "Ludwig-Maximilians-Universität München (LMU Munich)"
 version: "1.0.1"
 date-released: "2026-06-26"
