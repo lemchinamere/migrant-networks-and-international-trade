@@ -1,0 +1,36 @@
+\begin{table}[!htbp]
+\centering
+\caption{Main results}
+\label{tab:main_results}
+\small
+\begin{tabular}{lccccc}
+\toprule
+ & (1) & (2) & (3) & (4) & (5) \\
+ & First stage & PPML reduced form & PPML benchmark & Linear IV / 2SLS & CF-IV-PPML \\
+\midrule
+IV: predicted exposure (/1,000) & 0.998*** & -0.0001 &  &  &  \\
+ & (0.206) & (0.0044) &  &  &  \\
+Treatment: actual exposure (/1,000) &  &  & 0.0001 & 0.0064 & -0.0003 \\
+ &  &  & (0.0032) & (0.0072) & (0.0047) \\
+First-stage residual (/1,000) &  &  &  &  & 0.0009 \\
+ &  &  &  &  & (0.0103) \\
+\midrule
+Outcome & Treatment & Exports & Exports & log Exports & Exports \\
+Estimator & feols & fepois & fepois & feols-IV & fepois + CF \\
+\midrule
+Fixed effects: &  &  &  &  &  \\
+  Bundesland × origin & Yes & Yes & Yes & Yes & Yes \\
+  Bundesland × year & Yes & Yes & Yes & Yes & Yes \\
+  Origin × year & Yes & Yes & Yes & Yes & Yes \\
+\midrule
+First-stage F & 23.4 &  &  &  &  \\
+Observations & 1,247 & 1,247 & 1,247 & 1,247 & 1,247 \\
+Clusters (pair) & 80 & 80 & 80 & 80 & 80 \\
+\bottomrule
+\end{tabular}
+\begin{minipage}{0.95\textwidth}
+\vspace{0.2cm}
+\footnotesize
+\textit{Notes:} Robust standard errors clustered at the Bundesland $\times$ origin country level in parentheses. $^{*}p<0.10$, $^{**}p<0.05$, $^{***}p<0.01$. The instrument is the Königstein-predicted protection-seeker stock in 2016 interacted with a post-2016 indicator, scaled per 1,000 persons. The treatment is the corresponding actual stock. Column (1) is the first-stage \texttt{feols} regression. Columns (2) and (3) are PPML specifications estimated via \texttt{fepois}. Column (4) reports $\log(\mathrm{exports}+1)$ as outcome to handle zero flows. Column (5) implements a control-function IV-style PPML approach: the first-stage residual from a linear regression of treatment on the instrument is included as an additional regressor in the PPML second stage. Sample period: 2010--2025.
+\end{minipage}
+\end{table}

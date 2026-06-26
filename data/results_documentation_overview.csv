@@ -1,0 +1,16 @@
+result_block,location_in_paper,key_estimate_or_pattern,interpretation,final_use
+First stage,"Main Table 1, column 1","0.998*** (0.206), first-stage F = 23.4",The instrument is strongly relevant.,Main evidence for relevance
+PPML reduced form,"Main Table 1, column 2",-0.0001 (0.0044),The preferred PPML reduced form provides no evidence of a positive export response.,Preferred outcome specification
+PPML benchmark,"Main Table 1, column 3",0.0001 (0.0032),The non-instrumented PPML benchmark also shows no positive association.,Benchmark comparison
+Linear IV / 2SLS,"Main Table 1, column 4",0.0064 (0.0072),The null result is robust to a familiar linear IV / 2SLS specification.,Robustness check
+Control-function IV-style PPML,"Main Table 1, column 5","-0.0003 (0.0047), residual 0.0009 (0.0103)",The null result is robust to the control-function IV-style PPML specification.,Robustness check
+BHJ pre-trend test,"Main Table 2, column 1","0.0026 (0.0175), p = 0.885",There is no evidence of differential pre-shock export growth.,Formal pre-trend validity check
+Linear event study,Main Figure 1,Year-specific coefficients statistically insignificant,The main visual diagnostic supports the null result.,Main visual diagnostic
+Delta-version PPML reduced form,"Main Table 2, column 2",-0.0001 (0.0049),The null is robust to measuring exposure as the 2014–2016 change.,Additional main specification
+Regional-control robustness,"Main Table 2, column 3",-0.0109 (0.0069),The null is not mechanically driven by saturated federal-state-year fixed effects.,Additional main specification
+COVID-year exclusion robustness,"Appendix Table A1, column 1",-0.0015 (0.0043),The null is not driven by COVID-period trade disruptions.,Appendix robustness
+Drop Eritrea robustness,"Appendix Table A1, column 2",-0.0001 (0.0045),The null is not driven by Eritrea.,Appendix robustness
+Export-weight robustness,"Appendix Table A1, column 3",0.0055 (0.0153),The null is not driven by using export value instead of export weight.,Appendix robustness
+Delta-endpoint robustness,"Appendix Table A1, column 4",-0.0001 (0.0076),The null is not driven by using 2017 rather than 2016 as the endpoint.,Appendix robustness
+Leave-one-origin-out robustness,Appendix Table A1 column 5 and Appendix Table A2,"Range [-0.0020, 0.0018], none significant",The null is not driven by any single origin country.,Appendix robustness
+PPML event study,Appendix Figure A1,No positive post-shock response; several coefficients negative; interpreted cautiously,The PPML event study is consistent with the null but visually less clean because 2014 is a single high reference year.,Appendix robustness figure

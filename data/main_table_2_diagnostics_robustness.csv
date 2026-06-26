@@ -1,0 +1,17 @@
+row,BHJ pre-trend,Delta PPML RF,Regional controls
+"IV: predicted exposure (/1,000)",0.0026,,-0.0109
+,(0.0175),,(0.0069)
+"IV: predicted delta exposure (/1,000)",,-0.0001,
+,,(0.0049),
+Outcome,Δ log exports,Exports,Exports
+Estimator,feols,fepois,fepois
+Sample period,2010–2014,2010–2025,2010–2024
+Fixed effects:,,,
+  Bundesland × origin,No,Yes,Yes
+  Bundesland × year,No,Yes,No
+  Origin × year,No,Yes,Yes
+  Bundesland (separate),Yes,-,-
+  Origin country (separate),Yes,-,-
+Regional controls,No,No,Yes
+Observations,77,"1,247","1,169"
+Clusters,16,80,80

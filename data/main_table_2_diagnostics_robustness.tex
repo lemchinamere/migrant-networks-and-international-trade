@@ -1,0 +1,37 @@
+\begin{table}[!htbp]
+\centering
+\caption{Pre-trend test and additional main specifications}
+\label{tab:main_diagnostics_robustness}
+\small
+\begin{tabular}{lccc}
+\toprule
+ & (1) & (2) & (3) \\
+ & BHJ pre-trend & Delta PPML RF & Regional controls \\
+\midrule
+IV: predicted exposure (/1,000) & 0.0026 &  & -0.0109 \\
+ & (0.0175) &  & (0.0069) \\
+IV: predicted delta exposure (/1,000) &  & -0.0001 &  \\
+ &  & (0.0049) &  \\
+\midrule
+Outcome & Δ log exports & Exports & Exports \\
+Estimator & feols & fepois & fepois \\
+Sample period & 2010–2014 & 2010–2025 & 2010–2024 \\
+\midrule
+Fixed effects: &  &  &  \\
+  Bundesland × origin & No & Yes & Yes \\
+  Bundesland × year & No & Yes & No \\
+  Origin × year & No & Yes & Yes \\
+  Bundesland (separate) & Yes & - & - \\
+  Origin country (separate) & Yes & - & - \\
+Regional controls & No & No & Yes \\
+\midrule
+Observations & 77 & 1,247 & 1,169 \\
+Clusters & 16 & 80 & 80 \\
+\bottomrule
+\end{tabular}
+\begin{minipage}{0.95\textwidth}
+\vspace{0.2cm}
+\footnotesize
+\textit{Notes:} Standard errors are reported in parentheses. Standard errors are clustered at the Bundesland $\times$ origin country level in columns (2) and (3), and at the Bundesland level in column (1). $^{*}p<0.10$, $^{**}p<0.05$, $^{***}p<0.01$. Column (1) is a Borusyak-Hull-Jaravel-style cross-sectional first-differences pre-trend test, regressing $\Delta \log$ exports between 2010 and 2014 on the IV with separate Bundesland and origin fixed effects. Pair fixed effects would absorb the cross-sectional IV. Column (2) is the delta-version PPML reduced form, replacing the 2016-stock exposure with the 2014--2016 predicted delta exposure. Column (3) replaces Bundesland $\times$ year fixed effects with explicit controls for log GDP, log population, unemployment rate, log employment, manufacturing share, and log total Bundesland exports to the world.
+\end{minipage}
+\end{table}

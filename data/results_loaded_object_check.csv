@@ -1,0 +1,7 @@
+object_name,loaded,n_rows
+main_table_1_results,TRUE,15
+main_table_2_diagnostics_robustness,TRUE,16
+appendix_table_a1_robustness,TRUE,11
+appendix_table_a2_leave_one_origin_out,TRUE,5
+event_study_main_linear_data,TRUE,16
+appendix_figure_a1_ppml_event_study_data,TRUE,16

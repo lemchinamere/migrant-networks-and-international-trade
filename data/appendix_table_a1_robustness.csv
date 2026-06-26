@@ -1,0 +1,12 @@
+row,Drop COVID,Drop Eritrea,Export weight,Delta endpoint 2014–2017,Leave-one-origin-out range
+"IV: predicted exposure (/1,000)",-0.0015,-0.0001,0.0055,-0.0001,"[-0.0020, 0.0018]"
+,(0.0043),(0.0045),(0.0153),(0.0076),
+Outcome,Exports,Exports,Weight,Exports,Exports
+Estimator,fepois,fepois,fepois,fepois,fepois
+Sample period,excl. 2020 & 2021,2010–2025,2010–2025,2010–2025,varies
+Fixed effects:,,,,,
+  Bundesland × origin,Yes,Yes,Yes,Yes,Yes
+  Bundesland × year,Yes,Yes,Yes,Yes,Yes
+  Origin × year,Yes,Yes,Yes,Yes,Yes
+Observations,"1,095","1,020","1,247","1,247","991–1,020"
+Clusters (pair),80,64,80,80,64–80

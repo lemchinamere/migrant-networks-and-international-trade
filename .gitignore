@@ -1,0 +1,48 @@
+# ============================================================
+# .gitignore — Migrant Networks and International Trade
+# ============================================================
+# Strategy: commit code + raw Destatis inputs + final tables/figures.
+# Exclude regenerable intermediate objects, the large CEPII file,
+# personal documents, third-party copyrighted material, and OS/editor junk.
+
+# --- OS / editor junk ---
+.DS_Store
+**/.DS_Store
+~$*
+*.tmp
+.Rhistory
+.Rapp.history
+**/.Rapp.history
+.RData
+.Rproj.user/
+
+# --- Generated intermediate objects (regenerate via the pipeline) ---
+# Final tables/figures are kept as .tex/.csv/.png; the .rds copies are not needed.
+data/*.rds
+
+# --- Large raw data: download separately (see README, Section 2) ---
+# CEPII Gravity database (~1.2 GB); archived robustness only, not in active strategy.
+data/Gravity_V202211.csv
+
+# --- Personal documents (not part of the project) ---
+Chinamere_CV_EN.docx
+Chinamere_Lebenslauf_DE.docx
+
+# --- Third-party / copyrighted material (do not redistribute) ---
+1-s2.0-*.pdf
+Final_Paper_*.pdf
+The Economic Journal*.pdf
+orefice_et_al_*.pdf
+ecoj*.pdf
+consequences_migration_*.pdf
+# Review of Economics & Statistics article (copyrighted)
+data/rest_a_01165.pdf
+# Eurostat news release (third-party)
+data/3-04032016-AP-EN.pdf
+# seminar assignment brief (instructor material, not needed for replication)
+assignment_chinamere_trade.pdf
+
+# --- Working drafts / notes (not needed for replication) ---
+draft2.docx
+notes.docx
+notes.pdf

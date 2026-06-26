@@ -1,0 +1,33 @@
+\begin{table}[!htbp]
+\centering
+\caption{Consolidated robustness package}
+\label{tab:appendix_robustness}
+\small
+\begin{tabular}{lccccc}
+\toprule
+ & (1) & (2) & (3) & (4) & (5) \\
+ & Drop COVID & Drop Eritrea & Export weight & Delta endpoint & Leave-one-origin-out \\
+ &  &  &  & 2014--2017 & range \\
+\midrule
+IV: predicted exposure (/1,000) & -0.0015 & -0.0001 & 0.0055 & -0.0001 & [-0.0020, 0.0018] \\
+ & (0.0043) & (0.0045) & (0.0153) & (0.0076) &  \\
+\midrule
+Outcome & Exports & Exports & Weight & Exports & Exports \\
+Estimator & fepois & fepois & fepois & fepois & fepois \\
+Sample period & excl. 2020 \& 2021 & 2010–2025 & 2010–2025 & 2010–2025 & varies \\
+\midrule
+Fixed effects: &  &  &  &  &  \\
+  Bundesland × origin & Yes & Yes & Yes & Yes & Yes \\
+  Bundesland × year & Yes & Yes & Yes & Yes & Yes \\
+  Origin × year & Yes & Yes & Yes & Yes & Yes \\
+\midrule
+Observations & 1,095 & 1,020 & 1,247 & 1,247 & 991–1,020 \\
+Clusters (pair) & 80 & 64 & 80 & 80 & 64–80 \\
+\bottomrule
+\end{tabular}
+\begin{minipage}{0.95\textwidth}
+\vspace{0.2cm}
+\footnotesize
+\textit{Notes:} Robust standard errors clustered at the Bundesland $\times$ origin country level in parentheses. $^{*}p<0.10$, $^{**}p<0.05$, $^{***}p<0.01$. Each column reproduces the preferred PPML reduced-form specification from Main Table 1, column (2), under the indicated robustness condition. Column (5) reports the range of point estimates across five regressions, each excluding one of the five origin countries; the full set of leave-one-origin-out estimates appears in Appendix Table A2. The instrument in column (4) is the 2014--2017 predicted delta exposure. None of the coefficients is statistically significant at conventional levels.
+\end{minipage}
+\end{table}

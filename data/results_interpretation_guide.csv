@@ -1,0 +1,12 @@
+writing_context,recommended_wording,reason
+Overall result,The estimates provide no evidence of a positive export response in this setting and over this horizon.,This is precise and avoids overclaiming.
+First stage,The Königstein-based instrument strongly predicts actual protection-seeker exposure.,This supports instrument relevance but not exclusion or exogeneity by itself.
+Main PPML reduced form,The preferred PPML reduced form is close to zero and statistically insignificant.,This is the preferred trade-flow outcome specification.
+Linear IV / 2SLS,The linear IV estimate is statistically insignificant and supports the same null pattern.,This shows the null is not specific to PPML.
+Control-function IV-style PPML,The control-function IV-style PPML specification also yields no evidence of a positive export response.,This shows the null is not specific to the reduced-form PPML approach.
+Pre-trend evidence,The BHJ-style pre-trend test provides no evidence that later high-exposure pairs were already on differential pre-shock export trends.,This is the formal pre-trend validity check.
+Main event study,The linear event-study figure provides the main visual diagnostic and shows no clear differential post-shock response.,This reflects the supervisor's recommendation.
+PPML appendix event study,"The PPML event study is reported in the appendix because its 2014 reference year makes the dynamic pattern visually less clean, although it is consistent with the null result.",This prevents readers from misinterpreting the PPML event study as the main validity test.
+Robustness checks,"The null pattern is robust to alternative samples, outcomes, exposure definitions, and origin-country exclusions.",This supports the credibility of the informative null result.
+Scope condition,"The findings apply to the selected refugee-origin countries, German federal states, and the observed time horizon.",This keeps the conclusion appropriately bounded.
+Avoided claim,Do not write that migration has no effect on trade.,The empirical design cannot prove a universal zero effect of migration on trade.

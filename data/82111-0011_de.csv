@@ -1,0 +1,528 @@
+﻿Tabelle: 82111-0011
+VGR der Länder (Entstehungsrechnung) - Bruttowertschöpfung;;;;;;;;;;;;;;;;;
+zu Herstellungspreisen (nominal): Bundesländer, Jahre,;;;;;;;;;;;;;;;;;
+Wirtschaftszweige;;;;;;;;;;;;;;;;;
+VGR der Länder: Entstehungsrechnung;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bruttowertschöpfung z.Herstellungspr.i.jew.Preisen (Mill. EUR);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;Bundesländer;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;Baden-Württemberg;;Bayern;;Berlin;;Brandenburg;;Bremen;;Hamburg;;Hessen;;Mecklenburg-Vorpommern;;Niedersachsen;;Nordrhein-Westfalen;;Rheinland-Pfalz;;Saarland;;Sachsen;;Sachsen-Anhalt;;Schleswig-Holstein;;Thüringen;
+2010;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;1975;e;3540;e;7;e;980;e;11;e;79;e;798;e;980;e;3698;e;2695;e;1851;e;56;e;926;e;1039;e;956;e;707;e
+WZ08-B-F;Produzierendes Gewerbe;129230;e;131358;e;15800;e;12991;e;6259;e;13837;e;48950;e;6123;e;61581;e;144041;e;33179;e;8935;e;25234;e;14668;e;14906;e;13847;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;115653;e;113353;e;12852;e;10034;e;5536;e;11969;e;42211;e;4405;e;52276;e;127013;e;28666;e;7857;e;19801;e;11830;e;11967;e;11115;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;328;e;450;e;23;e;323;e;4;e;206;e;117;e;28;e;1941;e;830;e;163;e;34;e;270;e;367;e;111;e;36;e
+WZ08-C;Verarbeitendes Gewerbe;107097;e;103609;e;9531;e;6743;e;4645;e;9999;e;37409;e;3298;e;44105;e;104742;e;25434;e;6702;e;15944;e;9367;e;9705;e;9754;e
+WZ08-D;Energieversorgung;6273;e;6977;e;1376;e;2074;e;602;e;1018;e;3303;e;525;e;4411;e;15131;e;1366;e;766;e;2437;e;1195;e;1483;e;594;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;1954;e;2318;e;1922;e;894;e;285;e;747;e;1382;e;554;e;1819;e;6309;e;6309;e;355;e;1149;e;901;e;669;e;730;e
+WZ08-F;Baugewerbe;13578;e;18005;e;2948;e;2957;e;723;e;1869;e;6739;e;1718;e;9305;e;17028;e;4513;e;1077;e;5433;e;2838;e;2938;e;2732;e
+WZ08-G-T;Dienstleistungsbereiche;217774;e;276353;e;78414;e;37404;e;17865;e;73054;e;157998;e;24541;e;140887;e;359121;e;67758;e;18531;e;60328;e;30724;e;50033;e;29141;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;66047;e;79662;e;18370;e;9637;e;6778;e;28638;e;46637;e;6175;e;39138;e;106401;e;19638;e;5338;e;16069;e;7612;e;14668;e;6810;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;50401;e;60041;e;11949;e;8385;e;5957;e;23032;e;36569;e;5554;e;34028;e;81266;e;15863;e;4414;e;12897;e;6707;e;12764;e;5965;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;34648;e;38642;e;6213;e;4746;e;2556;e;10805;e;21122;e;2795;e;20269;e;54431;e;10564;e;2746;e;7365;e;3872;e;7763;e;3567;e
+WZ08-H;Verkehr und Lagerei;11232;e;14715;e;3732;e;2864;e;3086;e;11032;e;12308;e;1798;e;10782;e;20492;e;3711;e;1337;e;4149;e;2187;e;3645;e;1790;e
+WZ08-I;Gastgewerbe;4521;e;6685;e;2004;e;775;e;315;e;1195;e;3138;e;961;e;2977;e;6343;e;1588;e;331;e;1384;e;648;e;1357;e;608;e
+WZ08-J;Information und Kommunikation;15647;e;19620;e;6420;e;1252;e;821;e;5607;e;10069;e;621;e;5110;e;25135;e;3775;e;924;e;3172;e;906;e;1904;e;845;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;85579;e;114952;e;31001;e;13210;e;5719;e;29381;e;72036;e;7710;e;53833;e;134968;e;23351;e;6617;e;20262;e;10020;e;17321;e;9174;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;16576;e;21802;e;4540;e;1057;e;1073;e;5927;e;18469;e;694;e;8797;e;23647;e;4081;e;1265;e;2394;e;1064;e;3052;e;928;e
+WZ08-L;Grundstücks- und Wohnungswesen;33913;e;47232;e;13102;e;7618;e;2097;e;9923;e;23159;e;4365;e;22184;e;58514;e;11569;e;3063;e;9200;e;5022;e;9071;e;4702;e
+WZ08-M-N;Unternehmensdienstleistungen;35090;e;45918;e;13359;e;4535;e;2548;e;13531;e;30408;e;2651;e;22851;e;52807;e;7701;e;2289;e;8668;e;3933;e;5198;e;3545;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;21360;e;27198;e;8725;e;2303;e;1423;e;7658;e;17362;e;1212;e;10307;e;31592;e;4221;e;1369;e;5037;e;1853;e;2727;e;1827;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;13730;e;18720;e;4635;e;2232;e;1126;e;5873;e;13046;e;1439;e;12544;e;21216;e;3480;e;920;e;3631;e;2079;e;2472;e;1718;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;66147;e;81739;e;29043;e;14557;e;5368;e;15035;e;39325;e;10655;e;47917;e;117752;e;24770;e;6576;e;23998;e;13092;e;18044;e;13156;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;54257;e;66032;e;22924;e;12349;e;4308;e;11749;e;31775;e;9074;e;40144;e;95984;e;20701;e;5585;e;19963;e;11298;e;14859;e;11261;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;16125;e;21253;e;8653;e;5197;e;1342;e;4178;e;10285;e;3968;e;14300;e;30817;e;7601;e;1935;e;6743;e;4200;e;5703;e;4129;e
+WZ08-P;Erziehung und Unterricht;15015;e;16348;e;5677;e;2682;e;1144;e;2665;e;7865;e;1803;e;9924;e;23901;e;5129;e;1335;e;5157;e;2668;e;3322;e;2840;e
+WZ08-Q;Gesundheits- und Sozialwesen;23116;e;28431;e;8594;e;4470;e;1822;e;4906;e;13625;e;3303;e;15920;e;41267;e;7971;e;2315;e;8063;e;4430;e;5834;e;4292;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;11891;e;15707;e;6119;e;2208;e;1060;e;3286;e;7550;e;1581;e;7773;e;21768;e;4069;e;991;e;4035;e;1794;e;3185;e;1896;e
+WZ08-R;Kunst, Unterhaltung und Erholung;3192;e;4514;e;2264;e;614;e;424;e;1275;e;2159;e;448;e;2067;e;6060;e;998;e;242;e;1322;e;439;e;793;e;473;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;7891;e;9909;e;3672;e;1539;e;597;e;1837;e;4928;e;1101;e;5114;e;14000;e;2701;e;674;e;2630;e;1312;e;2178;e;1381;e
+WZ08-T;Private Haushalte;807;e;1283;e;183;e;56;e;40;e;174;e;463;e;32;e;592;e;1708;e;370;e;74;e;83;e;43;e;214;e;42;e
+;Insgesamt;348979;e;411252;e;94221;e;51375;e;24135;e;86971;e;207746;e;31644;e;206167;e;505857;e;102788;e;27521;e;86488;e;46431;e;65895;e;43695;e
+2011;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2420;e;4739;e;7;e;1084;e;13;e;88;e;1026;e;1271;e;4995;e;3274;e;1677;e;67;e;1225;e;1355;e;1165;e;992;e
+WZ08-B-F;Produzierendes Gewerbe;139909;e;143280;e;16426;e;13621;e;6204;e;14389;e;50881;e;6452;e;65562;e;148867;e;34931;e;9934;e;26154;e;14641;e;15891;e;14733;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;125617;e;124535;e;13246;e;10462;e;5451;e;12407;e;43956;e;4531;e;55566;e;130490;e;30099;e;8826;e;20411;e;11588;e;12861;e;11828;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;366;e;493;e;8;e;339;e;5;e;257;e;116;e;28;e;1899;e;876;e;167;e;23;e;292;e;392;e;126;e;47;e
+WZ08-C;Verarbeitendes Gewerbe;118476;e;116178;e;10307;e;7470;e;4671;e;10551;e;40135;e;3494;e;48389;e;110694;e;27065;e;7777;e;16905;e;9290;e;10876;e;10481;e
+WZ08-D;Energieversorgung;4765;e;5335;e;1029;e;1723;e;460;e;782;e;2282;e;464;e;3231;e;11710;e;1048;e;618;e;2002;e;997;e;1121;e;487;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;2010;e;2528;e;1903;e;930;e;315;e;817;e;1422;e;545;e;2047;e;7209;e;7209;e;408;e;1213;e;909;e;738;e;813;e
+WZ08-F;Baugewerbe;14291;e;18745;e;3180;e;3159;e;752;e;1982;e;6925;e;1921;e;9996;e;18377;e;4832;e;1109;e;5742;e;3053;e;3031;e;2905;e
+WZ08-G-T;Dienstleistungsbereiche;225986;e;290360;e;82341;e;38295;e;18628;e;73713;e;165114;e;25155;e;146975;e;373104;e;69972;e;18974;e;62800;e;31240;e;51279;e;30354;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;70002;e;85715;e;19826;e;10220;e;7116;e;28807;e;48854;e;6319;e;41063;e;111142;e;20461;e;5608;e;17228;e;7865;e;15277;e;7528;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;53190;e;63554;e;12418;e;8873;e;6228;e;22746;e;37879;e;5689;e;35322;e;84751;e;16705;e;4635;e;13619;e;6921;e;13156;e;6323;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;36569;e;40882;e;6274;e;5117;e;2633;e;10933;e;22063;e;2973;e;21361;e;57227;e;11152;e;2953;e;7912;e;4035;e;8114;e;3663;e
+WZ08-H;Verkehr und Lagerei;11750;e;15550;e;3999;e;2955;e;3263;e;10517;e;12470;e;1699;e;10803;e;20671;e;3857;e;1326;e;4242;e;2215;e;3584;e;2020;e
+WZ08-I;Gastgewerbe;4871;e;7122;e;2145;e;802;e;332;e;1297;e;3347;e;1017;e;3158;e;6853;e;1696;e;356;e;1465;e;671;e;1457;e;639;e
+WZ08-J;Information und Kommunikation;16812;e;22161;e;7408;e;1346;e;888;e;6060;e;10975;e;630;e;5741;e;26392;e;3755;e;973;e;3609;e;944;e;2121;e;1205;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;88161;e;120554;e;32570;e;13398;e;6005;e;29523;e;75463;e;8026;e;56439;e;140706;e;23967;e;6772;e;20962;e;10133;e;17254;e;9602;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;16392;e;22581;e;4716;e;1114;e;1067;e;6017;e;20189;e;705;e;8975;e;24334;e;4071;e;1324;e;2448;e;1110;e;2852;e;973;e
+WZ08-L;Grundstücks- und Wohnungswesen;35879;e;51272;e;13823;e;7782;e;2245;e;10289;e;24982;e;4717;e;24072;e;61668;e;12044;e;3134;e;9687;e;5141;e;9266;e;5023;e
+WZ08-M-N;Unternehmensdienstleistungen;35890;e;46701;e;14031;e;4502;e;2692;e;13217;e;30292;e;2604;e;23392;e;54703;e;7852;e;2314;e;8827;e;3882;e;5136;e;3606;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;22715;e;28208;e;9123;e;2195;e;1520;e;7987;e;17983;e;1196;e;10859;e;33130;e;4476;e;1308;e;5072;e;1745;e;2663;e;1817;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;13175;e;18493;e;4908;e;2307;e;1172;e;5230;e;12309;e;1408;e;12533;e;21573;e;3376;e;1007;e;3755;e;2137;e;2473;e;1789;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;67823;e;84091;e;29945;e;14677;e;5507;e;15383;e;40797;e;10810;e;49473;e;121256;e;25545;e;6594;e;24610;e;13242;e;18748;e;13224;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;55462;e;67822;e;23775;e;12454;e;4412;e;12014;e;33185;e;9249;e;41454;e;99088;e;21315;e;5612;e;20544;e;11472;e;15587;e;11394;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;16146;e;21499;e;8899;e;5240;e;1363;e;4252;e;10609;e;4052;e;14466;e;31330;e;7618;e;1944;e;6876;e;4280;e;5829;e;4127;e
+WZ08-P;Erziehung und Unterricht;15710;e;17054;e;5939;e;2574;e;1194;e;2677;e;8331;e;1793;e;10333;e;24820;e;5391;e;1342;e;5203;e;2704;e;3444;e;2854;e
+WZ08-Q;Gesundheits- und Sozialwesen;23607;e;29268;e;8936;e;4639;e;1855;e;5084;e;14245;e;3403;e;16655;e;42937;e;8306;e;2326;e;8465;e;4489;e;6314;e;4412;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;12361;e;16269;e;6170;e;2224;e;1095;e;3370;e;7613;e;1561;e;8018;e;22169;e;4229;e;982;e;4066;e;1770;e;3162;e;1830;e
+WZ08-R;Kunst, Unterhaltung und Erholung;3420;e;4682;e;2384;e;624;e;408;e;1315;e;2183;e;435;e;2200;e;6282;e;1091;e;247;e;1349;e;473;e;791;e;472;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;8120;e;10277;e;3597;e;1542;e;647;e;1878;e;4960;e;1092;e;5223;e;14166;e;2766;e;662;e;2630;e;1251;e;2156;e;1314;e
+WZ08-T;Private Haushalte;821;e;1311;e;189;e;58;e;41;e;176;e;470;e;34;e;595;e;1721;e;373;e;73;e;87;e;46;e;215;e;43;e
+;Insgesamt;368315;e;438380;e;98773;e;53001;e;24845;e;88190;e;217021;e;32878;e;217532;e;525246;e;106580;e;28975;e;90178;e;47236;e;68336;e;46079;e
+2012;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2453;e;4561;e;8;e;1191;e;30;e;82;e;922;e;1391;e;4941;e;3256;e;1883;e;68;e;1131;e;1479;e;1138;e;980;e
+WZ08-B-F;Produzierendes Gewerbe;143452;e;147680;e;16027;e;14595;e;6866;e;15781;e;51365;e;6931;e;68055;e;151068;e;36523;e;10130;e;26376;e;16087;e;17108;e;15026;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;128542;e;128035;e;12790;e;11247;e;6077;e;13703;e;44085;e;4935;e;57740;e;131810;e;31543;e;9005;e;20375;e;12895;e;13795;e;12008;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;381;e;533;e;12;e;402;e;5;e;270;e;114;e;31;e;2184;e;724;e;192;e;12;e;330;e;436;e;136;e;52;e
+WZ08-C;Verarbeitendes Gewerbe;121544;e;118371;e;9839;e;7599;e;5204;e;11723;e;39878;e;3538;e;48807;e;110959;e;27879;e;7844;e;16520;e;9964;e;11090;e;10421;e
+WZ08-D;Energieversorgung;4639;e;6464;e;1087;e;2330;e;543;e;861;e;2623;e;843;e;4600;e;12775;e;1589;e;719;e;2242;e;1591;e;1847;e;695;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;1977;e;2667;e;1853;e;915;e;325;e;849;e;1470;e;522;e;2148;e;7352;e;7352;e;431;e;1283;e;904;e;723;e;841;e
+WZ08-F;Baugewerbe;14911;e;19645;e;3237;e;3348;e;789;e;2078;e;7280;e;1997;e;10315;e;19258;e;4980;e;1124;e;6001;e;3193;e;3313;e;3017;e
+WZ08-G-T;Dienstleistungsbereiche;230182;e;297784;e;84384;e;38734;e;19063;e;74713;e;165485;e;24897;e;149768;e;376425;e;70970;e;18926;e;64360;e;31651;e;52539;e;30636;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;70613;e;88703;e;20247;e;10411;e;7351;e;29393;e;48767;e;6082;e;40633;e;109652;e;20431;e;5379;e;17423;e;7855;e;15739;e;7149;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;52963;e;63958;e;12696;e;9057;e;6450;e;22972;e;37508;e;5438;e;34775;e;83899;e;16580;e;4344;e;13718;e;6870;e;13081;e;6172;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;35800;e;40495;e;6485;e;5125;e;2550;e;10895;e;21634;e;2721;e;20605;e;55670;e;10538;e;2730;e;7528;e;3831;e;7906;e;3517;e
+WZ08-H;Verkehr und Lagerei;11932;e;15748;e;3945;e;3093;e;3553;e;10706;e;12502;e;1647;e;10875;e;20852;e;4278;e;1256;e;4610;e;2347;e;3653;e;1987;e
+WZ08-I;Gastgewerbe;5230;e;7714;e;2266;e;839;e;347;e;1371;e;3373;e;1071;e;3295;e;7377;e;1763;e;357;e;1580;e;692;e;1523;e;668;e
+WZ08-J;Information und Kommunikation;17650;e;24745;e;7551;e;1354;e;901;e;6422;e;11259;e;644;e;5858;e;25753;e;3851;e;1035;e;3705;e;985;e;2658;e;977;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;90021;e;122964;e;33162;e;13275;e;6080;e;29324;e;74084;e;7574;e;58011;e;142227;e;24306;e;6803;e;21414;e;10198;e;17740;e;9721;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;16714;e;23829;e;4784;e;1143;e;1001;e;6169;e;19959;e;719;e;9573;e;24808;e;4169;e;1399;e;2517;e;1159;e;2939;e;1031;e
+WZ08-L;Grundstücks- und Wohnungswesen;36062;e;50352;e;13715;e;7575;e;2236;e;9963;e;24003;e;4207;e;23821;e;60317;e;12005;e;3008;e;9779;e;5092;e;9444;e;5029;e
+WZ08-M-N;Unternehmensdienstleistungen;37245;e;48783;e;14663;e;4557;e;2844;e;13192;e;30122;e;2649;e;24617;e;57102;e;8133;e;2397;e;9118;e;3946;e;5356;e;3661;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;23300;e;29832;e;9441;e;2195;e;1583;e;8027;e;17676;e;1185;e;11249;e;34252;e;4643;e;1397;e;5244;e;1810;e;2757;e;1793;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;13945;e;18951;e;5222;e;2362;e;1261;e;5165;e;12446;e;1464;e;13368;e;22851;e;3489;e;1000;e;3873;e;2136;e;2600;e;1868;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;69548;e;86117;e;30975;e;15048;e;5633;e;15996;e;42635;e;11240;e;51124;e;124545;e;26233;e;6744;e;25523;e;13598;e;19060;e;13766;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;56965;e;69724;e;24820;e;12800;e;4606;e;12668;e;34796;e;9675;e;42936;e;101854;e;21973;e;5754;e;21451;e;11827;e;15823;e;11774;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;16375;e;22118;e;9341;e;5305;e;1385;e;4397;e;10938;e;4094;e;14602;e;31896;e;7710;e;1936;e;6972;e;4232;e;5837;e;4125;e
+WZ08-P;Erziehung und Unterricht;16171;e;17371;e;6056;e;2648;e;1270;e;2902;e;8990;e;1960;e;10597;e;25612;e;5624;e;1425;e;5447;e;2963;e;3454;e;3028;e
+WZ08-Q;Gesundheits- und Sozialwesen;24419;e;30235;e;9423;e;4848;e;1950;e;5369;e;14867;e;3622;e;17737;e;44346;e;8638;e;2392;e;9033;e;4632;e;6532;e;4621;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;12583;e;16393;e;6154;e;2248;e;1027;e;3328;e;7838;e;1565;e;8188;e;22692;e;4260;e;990;e;4071;e;1771;e;3236;e;1992;e
+WZ08-R;Kunst, Unterhaltung und Erholung;3629;e;4797;e;2316;e;627;e;386;e;1269;e;2353;e;435;e;2363;e;6319;e;1039;e;257;e;1384;e;487;e;883;e;493;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;8109;e;10262;e;3641;e;1560;e;600;e;1878;e;5005;e;1095;e;5231;e;14651;e;2842;e;661;e;2602;e;1238;e;2142;e;1456;e
+WZ08-T;Private Haushalte;846;e;1333;e;198;e;61;e;41;e;182;e;480;e;35;e;594;e;1721;e;378;e;71;e;86;e;46;e;212;e;43;e
+;Insgesamt;376087;e;450025;e;100418;e;54520;e;25959;e;90576;e;217773;e;33219;e;222764;e;530749;e;109376;e;29124;e;91867;e;49217;e;70785;e;46642;e
+2013;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2485;e;4556;e;7;e;1361;e;23;e;72;e;1005;e;1503;e;5419;e;3379;e;2030;e;73;e;1123;e;1380;e;1176;e;985;e
+WZ08-B-F;Produzierendes Gewerbe;145185;e;151420;e;15502;e;14138;e;6666;e;15650;e;51107;e;7043;e;66586;e;147949;e;35853;e;9625;e;26628;e;15910;e;17146;e;15379;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;129535;e;130744;e;12064;e;10711;e;5828;e;13501;e;43627;e;5017;e;56018;e;128437;e;30759;e;8491;e;20460;e;12812;e;13670;e;12304;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;398;e;538;e;15;e;400;e;5;e;243;e;106;e;33;e;1674;e;591;e;188;e;17;e;334;e;435;e;128;e;55;e
+WZ08-C;Verarbeitendes Gewerbe;123399;e;122353;e;9474;e;7465;e;5090;e;11786;e;39972;e;3754;e;48342;e;110638;e;27470;e;7416;e;17000;e;10203;e;11215;e;10840;e
+WZ08-D;Energieversorgung;3748;e;5215;e;764;e;1934;e;391;e;614;e;2006;e;746;e;3768;e;9905;e;1267;e;562;e;1834;e;1251;e;1590;e;595;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;1989;e;2638;e;1810;e;912;e;342;e;858;e;1544;e;483;e;2234;e;7302;e;7302;e;497;e;1292;e;923;e;737;e;813;e
+WZ08-F;Baugewerbe;15651;e;20675;e;3438;e;3426;e;838;e;2149;e;7480;e;2027;e;10568;e;19512;e;5094;e;1133;e;6168;e;3098;e;3476;e;3076;e
+WZ08-G-T;Dienstleistungsbereiche;237750;e;307862;e;88093;e;40108;e;19608;e;78800;e;170792;e;25563;e;153100;e;388883;e;74030;e;19063;e;66434;e;32270;e;53272;e;31948;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;73028;e;91514;e;21242;e;10667;e;7370;e;30990;e;49859;e;6171;e;41135;e;113218;e;21132;e;5214;e;18026;e;8016;e;15698;e;7631;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;54240;e;66131;e;13455;e;9319;e;6475;e;23857;e;38138;e;5604;e;35301;e;84738;e;17211;e;4153;e;14295;e;7095;e;13651;e;6441;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;36716;e;41707;e;7088;e;5092;e;2530;e;10976;e;21482;e;2738;e;20711;e;55241;e;10810;e;2630;e;7759;e;4010;e;8193;e;3658;e
+WZ08-H;Verkehr und Lagerei;12441;e;16732;e;4108;e;3376;e;3590;e;11484;e;13293;e;1755;e;11360;e;22470;e;4698;e;1171;e;4949;e;2402;e;3886;e;2101;e
+WZ08-I;Gastgewerbe;5083;e;7693;e;2258;e;852;e;354;e;1397;e;3364;e;1110;e;3229;e;7028;e;1704;e;352;e;1587;e;684;e;1573;e;682;e
+WZ08-J;Information und Kommunikation;18788;e;25383;e;7787;e;1347;e;895;e;7133;e;11721;e;567;e;5834;e;28480;e;3921;e;1062;e;3732;e;921;e;2046;e;1190;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;93719;e;127153;e;34498;e;13918;e;6532;e;31208;e;76870;e;7967;e;59504;e;148175;e;25959;e;6850;e;22211;e;10336;e;18289;e;10023;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;16635;e;22686;e;4666;e;1154;e;985;e;6077;e;19950;e;730;e;9289;e;24015;e;4209;e;1400;e;2461;e;1142;e;2856;e;1047;e
+WZ08-L;Grundstücks- und Wohnungswesen;38000;e;53043;e;14558;e;7700;e;2343;e;10235;e;25100;e;4304;e;24324;e;62623;e;12567;e;2978;e;9914;e;5172;e;9666;e;5066;e
+WZ08-M-N;Unternehmensdienstleistungen;39084;e;51423;e;15274;e;5064;e;3204;e;14896;e;31820;e;2933;e;25891;e;61537;e;9183;e;2473;e;9836;e;4022;e;5767;e;3910;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;24103;e;31729;e;9753;e;2352;e;1786;e;8960;e;18222;e;1339;e;11669;e;36446;e;5373;e;1458;e;5479;e;1826;e;2955;e;1830;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;14981;e;19694;e;5521;e;2712;e;1417;e;5936;e;13598;e;1593;e;14223;e;25091;e;3810;e;1015;e;4357;e;2196;e;2813;e;2080;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;71003;e;89195;e;32353;e;15524;e;5705;e;16602;e;44063;e;11426;e;52461;e;127490;e;26939;e;6998;e;26196;e;13917;e;19285;e;14295;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;58701;e;72275;e;25949;e;13186;e;4644;e;13293;e;36199;e;9852;e;44480;e;105206;e;22625;e;5986;e;22181;e;12067;e;16013;e;12244;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;16728;e;22874;e;9697;e;5458;e;1398;e;4579;e;11188;e;4153;e;15021;e;32752;e;7834;e;1928;e;7183;e;4295;e;5814;e;4226;e
+WZ08-P;Erziehung und Unterricht;16456;e;18180;e;6237;e;2691;e;1278;e;3010;e;9294;e;1963;e;11072;e;26256;e;5780;e;1472;e;5597;e;2983;e;3518;e;3079;e
+WZ08-Q;Gesundheits- und Sozialwesen;25517;e;31221;e;10015;e;5037;e;1968;e;5703;e;15717;e;3736;e;18388;e;46198;e;9011;e;2587;e;9401;e;4789;e;6681;e;4940;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;12302;e;16921;e;6404;e;2338;e;1061;e;3309;e;7864;e;1574;e;7980;e;22284;e;4315;e;1012;e;4015;e;1850;e;3272;e;2051;e
+WZ08-R;Kunst, Unterhaltung und Erholung;3666;e;4971;e;2468;e;664;e;393;e;1311;e;2388;e;457;e;2381;e;6332;e;1077;e;283;e;1430;e;465;e;905;e;500;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;7759;e;10592;e;3725;e;1609;e;628;e;1801;e;4986;e;1080;e;4994;e;14200;e;2854;e;656;e;2493;e;1337;e;2155;e;1506;e
+WZ08-T;Private Haushalte;877;e;1357;e;211;e;65;e;40;e;197;e;490;e;38;e;605;e;1751;e;384;e;72;e;91;e;48;e;211;e;45;e
+;Insgesamt;385420;e;463837;e;103602;e;55607;e;26296;e;94521;e;222904;e;34110;e;225106;e;540210;e;111913;e;28760;e;94185;e;49559;e;71594;e;48313;e
+2014;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2570;e;5014;e;6;e;1397;e;36;e;69;e;985;e;1446;e;5440;e;3327;e;1949;e;70;e;1281;e;1449;e;1254;e;1032;e
+WZ08-B-F;Produzierendes Gewerbe;151843;e;158963;e;16023;e;14629;e;6859;e;16394;e;55347;e;7357;e;70305;e;151066;e;37142;e;10549;e;29157;e;15972;e;17631;e;16306;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;135753;e;137425;e;12408;e;10979;e;6058;e;14231;e;47340;e;5229;e;59136;e;131092;e;31919;e;9348;e;22751;e;12789;e;14091;e;13166;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;430;e;612;e;3;e;378;e;5;e;173;e;133;e;41;e;1537;e;442;e;196;e;19;e;350;e;424;e;146;e;59;e
+WZ08-C;Verarbeitendes Gewerbe;129724;e;129253;e;9835;e;8039;e;5395;e;12512;e;43783;e;4005;e;52053;e;115101;e;28853;e;8354;e;19495;e;10306;e;11751;e;11726;e
+WZ08-D;Energieversorgung;3374;e;4339;e;630;e;1673;e;310;e;518;e;1699;e;672;e;3211;e;8071;e;1057;e;464;e;1578;e;1086;e;1368;e;514;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;2225;e;3221;e;1941;e;889;e;348;e;1028;e;1724;e;511;e;2334;e;7477;e;7477;e;511;e;1329;e;973;e;826;e;868;e
+WZ08-F;Baugewerbe;16090;e;21538;e;3615;e;3650;e;801;e;2163;e;8008;e;2127;e;11170;e;19974;e;5223;e;1200;e;6406;e;3183;e;3540;e;3139;e
+WZ08-G-T;Dienstleistungsbereiche;245951;e;319443;e;93093;e;42577;e;20277;e;80090;e;176138;e;26900;e;159523;e;408106;e;77540;e;19515;e;68257;e;33193;e;55193;e;33429;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;75659;e;96432;e;23009;e;11715;e;7507;e;30667;e;52347;e;6755;e;43599;e;122076;e;22802;e;5318;e;18267;e;8193;e;16493;e;8107;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;56847;e;69832;e;14622;e;10208;e;6501;e;23239;e;40111;e;6190;e;37746;e;92278;e;18595;e;4280;e;14623;e;7236;e;14294;e;6916;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;39094;e;44771;e;7986;e;5551;e;2779;e;11529;e;23535;e;3013;e;22775;e;60281;e;11835;e;2838;e;8115;e;4071;e;8975;e;3847;e
+WZ08-H;Verkehr und Lagerei;12290;e;16762;e;4170;e;3718;e;3327;e;10220;e;12942;e;2003;e;11506;e;24440;e;4938;e;1072;e;4800;e;2439;e;3753;e;2345;e
+WZ08-I;Gastgewerbe;5464;e;8299;e;2466;e;938;e;395;e;1491;e;3635;e;1174;e;3464;e;7557;e;1822;e;370;e;1708;e;726;e;1566;e;724;e
+WZ08-J;Information und Kommunikation;18812;e;26600;e;8386;e;1508;e;1005;e;7428;e;12236;e;564;e;5853;e;29798;e;4207;e;1038;e;3644;e;957;e;2200;e;1191;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;96490;e;130300;e;36058;e;14733;e;6827;e;32152;e;78368;e;8190;e;60929;e;153962;e;26963;e;6841;e;22706;e;10476;e;18782;e;10458;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;16597;e;22753;e;4501;e;1225;e;961;e;5928;e;20334;e;739;e;9225;e;24803;e;4233;e;1342;e;2487;e;1115;e;2846;e;1067;e
+WZ08-L;Grundstücks- und Wohnungswesen;38656;e;53498;e;14784;e;7976;e;2518;e;11140;e;25385;e;4332;e;25026;e;64241;e;12959;e;3007;e;10076;e;5195;e;9934;e;5152;e
+WZ08-M-N;Unternehmensdienstleistungen;41237;e;54049;e;16773;e;5533;e;3347;e;15083;e;32649;e;3118;e;26679;e;64917;e;9772;e;2492;e;10144;e;4166;e;6002;e;4239;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;24956;e;32230;e;10358;e;2384;e;1779;e;9045;e;18030;e;1346;e;11797;e;37236;e;5461;e;1409;e;5365;e;1768;e;2981;e;1872;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;16281;e;21819;e;6415;e;3148;e;1569;e;6038;e;14619;e;1773;e;14882;e;27681;e;4311;e;1083;e;4779;e;2397;e;3022;e;2367;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;73802;e;92711;e;34027;e;16128;e;5943;e;17270;e;45423;e;11955;e;54995;e;132067;e;27775;e;7356;e;27283;e;14524;e;19917;e;14864;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;60933;e;75482;e;27184;e;13756;e;4845;e;13839;e;37410;e;10314;e;46459;e;109770;e;23324;e;6234;e;23105;e;12542;e;16775;e;12771;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;17280;e;23423;e;10030;e;5589;e;1417;e;4681;e;11555;e;4307;e;15436;e;33078;e;7921;e;1981;e;7435;e;4473;e;5940;e;4336;e
+WZ08-P;Erziehung und Unterricht;16873;e;19028;e;6755;e;2798;e;1319;e;3097;e;9695;e;2058;e;11471;e;27308;e;5968;e;1532;e;5910;e;3045;e;3655;e;3190;e
+WZ08-Q;Gesundheits- und Sozialwesen;26780;e;33031;e;10398;e;5368;e;2109;e;6061;e;16160;e;3949;e;19552;e;49383;e;9435;e;2721;e;9760;e;5024;e;7180;e;5246;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;12869;e;17229;e;6843;e;2372;e;1098;e;3432;e;8013;e;1641;e;8536;e;22297;e;4451;e;1122;e;4178;e;1982;e;3142;e;2093;e
+WZ08-R;Kunst, Unterhaltung und Erholung;3843;e;5163;e;2579;e;673;e;416;e;1363;e;2372;e;472;e;2393;e;6364;e;1142;e;352;e;1529;e;499;e;902;e;541;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;8124;e;10685;e;4041;e;1632;e;642;e;1869;e;5132;e;1130;e;5542;e;14169;e;2915;e;697;e;2554;e;1434;e;2027;e;1505;e
+WZ08-T;Private Haushalte;903;e;1381;e;223;e;67;e;40;e;199;e;508;e;40;e;602;e;1765;e;393;e;73;e;95;e;49;e;213;e;47;e
+;Insgesamt;400363;e;483421;e;109122;e;58603;e;27172;e;96552;e;232470;e;35702;e;235268;e;562499;e;116631;e;30134;e;98695;e;50614;e;74077;e;50767;e
+2015;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2131;e;3969;e;7;e;923;e;40;e;57;e;811;e;1073;e;4654;e;2869;e;1776;e;45;e;938;e;1008;e;872;e;700;e
+WZ08-B-F;Produzierendes Gewerbe;160716;e;164292;e;16616;e;15063;e;7170;e;16046;e;55925;e;7373;e;67383;e;155916;e;39792;e;10675;e;30916;e;16275;e;17648;e;16921;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;143896;e;142480;e;12784;e;11445;e;6310;e;13756;e;47749;e;5317;e;56245;e;135345;e;34458;e;9517;e;24432;e;13119;e;14038;e;13854;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;444;e;590;e;7;e;398;e;4;e;164;e;136;e;38;e;1207;e;483;e;188;e;19;e;372;e;401;e;135;e;68;e
+WZ08-C;Verarbeitendes Gewerbe;137767;e;134386;e;10173;e;8522;e;5669;e;12004;e;44066;e;4061;e;49484;e;119722;e;31369;e;8584;e;21213;e;10636;e;11641;e;12368;e
+WZ08-D;Energieversorgung;3287;e;4066;e;633;e;1585;e;273;e;557;e;1756;e;682;e;3150;e;7311;e;1047;e;433;e;1460;e;1055;e;1379;e;511;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;2398;e;3439;e;1971;e;940;e;364;e;1032;e;1791;e;536;e;2404;e;7829;e;7829;e;482;e;1388;e;1027;e;883;e;907;e
+WZ08-F;Baugewerbe;16820;e;21812;e;3832;e;3619;e;860;e;2290;e;8175;e;2056;e;11139;e;20571;e;5334;e;1158;e;6484;e;3156;e;3610;e;3067;e
+WZ08-G-T;Dienstleistungsbereiche;255053;e;335586;e;98883;e;43618;e;20507;e;84723;e;182395;e;27896;e;165597;e;421991;e;79327;e;20161;e;71016;e;34137;e;57444;e;34382;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;78948;e;101617;e;25089;e;11914;e;7404;e;32558;e;56032;e;7044;e;45182;e;125743;e;23158;e;5442;e;19337;e;8507;e;17224;e;8292;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;59750;e;74268;e;16079;e;10475;e;6400;e;24762;e;43410;e;6465;e;39008;e;95828;e;19077;e;4370;e;15548;e;7643;e;15024;e;7055;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;40949;e;47266;e;8853;e;5735;e;2577;e;12152;e;25275;e;3162;e;23099;e;62065;e;12465;e;2885;e;8579;e;4175;e;9202;e;4051;e
+WZ08-H;Verkehr und Lagerei;12886;e;18105;e;4535;e;3716;e;3401;e;10985;e;14285;e;2014;e;12218;e;25760;e;4682;e;1083;e;5078;e;2666;e;4125;e;2218;e
+WZ08-I;Gastgewerbe;5915;e;8896;e;2691;e;1023;e;422;e;1625;e;3850;e;1289;e;3690;e;8003;e;1929;e;403;e;1891;e;802;e;1698;e;787;e
+WZ08-J;Information und Kommunikation;19198;e;27349;e;9009;e;1440;e;1004;e;7796;e;12622;e;579;e;6175;e;29915;e;4081;e;1072;e;3788;e;864;e;2199;e;1237;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;100538;e;137161;e;37419;e;15019;e;6942;e;34286;e;80364;e;8469;e;63401;e;160270;e;27439;e;7189;e;23606;e;10752;e;19570;e;10757;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;17062;e;24125;e;4370;e;1282;e;967;e;6126;e;21095;e;750;e;9498;e;26125;e;4405;e;1422;e;2551;e;1127;e;2831;e;1096;e
+WZ08-L;Grundstücks- und Wohnungswesen;40461;e;55347;e;15551;e;7866;e;2560;e;11819;e;25734;e;4535;e;26268;e;66409;e;13475;e;3192;e;10344;e;5274;e;10480;e;5226;e
+WZ08-M-N;Unternehmensdienstleistungen;43014;e;57688;e;17498;e;5871;e;3416;e;16341;e;33535;e;3184;e;27635;e;67735;e;9559;e;2574;e;10711;e;4351;e;6259;e;4435;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;26745;e;35266;e;10906;e;2607;e;1903;e;9314;e;18481;e;1373;e;12418;e;39373;e;5305;e;1443;e;5694;e;1873;e;3114;e;1976;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;16269;e;22423;e;6592;e;3264;e;1513;e;7027;e;15054;e;1811;e;15217;e;28363;e;4253;e;1131;e;5017;e;2478;e;3146;e;2459;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;75567;e;96809;e;36375;e;16684;e;6161;e;17879;e;45998;e;12384;e;57013;e;135978;e;28731;e;7530;e;28074;e;14878;e;20651;e;15332;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;62231;e;79012;e;29261;e;14257;e;5022;e;14283;e;37635;e;10711;e;48211;e;113186;e;24144;e;6358;e;23808;e;12889;e;17334;e;13150;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;17675;e;23969;e;10535;e;5670;e;1438;e;4891;e;11697;e;4367;e;15831;e;33658;e;8100;e;1972;e;7616;e;4508;e;6021;e;4360;e
+WZ08-P;Erziehung und Unterricht;16995;e;19762;e;7282;e;2857;e;1339;e;3197;e;9847;e;2169;e;11863;e;27990;e;6112;e;1534;e;6049;e;3101;e;3757;e;3218;e
+WZ08-Q;Gesundheits- und Sozialwesen;27561;e;35281;e;11444;e;5730;e;2244;e;6195;e;16091;e;4175;e;20517;e;51538;e;9932;e;2852;e;10143;e;5280;e;7556;e;5572;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;13337;e;17797;e;7114;e;2427;e;1139;e;3597;e;8363;e;1673;e;8802;e;22791;e;4586;e;1171;e;4266;e;1989;e;3316;e;2182;e
+WZ08-R;Kunst, Unterhaltung und Erholung;4049;e;5337;e;2729;e;714;e;432;e;1490;e;2491;e;468;e;2538;e;6707;e;1194;e;365;e;1566;e;536;e;975;e;566;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;8365;e;11031;e;4150;e;1640;e;665;e;1899;e;5346;e;1158;e;5652;e;14290;e;2988;e;731;e;2597;e;1401;e;2119;e;1567;e
+WZ08-T;Private Haushalte;923;e;1429;e;235;e;73;e;42;e;207;e;526;e;46;e;612;e;1795;e;404;e;75;e;103;e;51;e;223;e;49;e
+;Insgesamt;417900;e;503847;e;115506;e;59604;e;27717;e;100826;e;239131;e;36342;e;237634;e;580776;e;120896;e;30881;e;102870;e;51420;e;75964;e;52002;e
+2016;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2234;e;4544;e;7;e;1044;e;25;e;59;e;898;e;912;e;4798;e;3078;e;1763;e;50;e;1089;e;1161;e;853;e;828;e
+WZ08-B-F;Produzierendes Gewerbe;166628;e;170285;e;17610;e;15262;e;7622;e;16559;e;60090;e;7623;e;79511;e;158656;e;41130;e;10421;e;32008;e;16572;e;18660;e;17653;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;148516;e;147072;e;13488;e;11433;e;6739;e;14187;e;51209;e;5478;e;67964;e;137176;e;35410;e;9172;e;25197;e;13251;e;14861;e;14382;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;474;e;546;e;4;e;353;e;3;e;132;e;138;e;37;e;895;e;444;e;180;e;23;e;337;e;344;e;123;e;68;e
+WZ08-C;Verarbeitendes Gewerbe;142273;e;138826;e;10712;e;8513;e;6094;e;12393;e;47495;e;4200;e;61541;e;121423;e;32307;e;8262;e;21999;e;10827;e;12479;e;12894;e
+WZ08-D;Energieversorgung;3349;e;4055;e;709;e;1576;e;266;e;579;e;1797;e;678;e;3077;e;7409;e;1021;e;405;e;1439;e;1028;e;1387;e;503;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;2420;e;3645;e;2063;e;992;e;376;e;1084;e;1779;e;563;e;2450;e;7899;e;7899;e;482;e;1422;e;1052;e;872;e;917;e
+WZ08-F;Baugewerbe;18112;e;23213;e;4122;e;3829;e;882;e;2372;e;8881;e;2145;e;11548;e;21480;e;5721;e;1249;e;6811;e;3321;e;3800;e;3271;e
+WZ08-G-T;Dienstleistungsbereiche;262301;e;349481;e;104196;e;45084;e;20812;e;86179;e;187840;e;28714;e;170926;e;432374;e;81582;e;20791;e;73206;e;35091;e;58816;e;35122;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;80970;e;105898;e;26433;e;12354;e;7358;e;32095;e;57509;e;7272;e;46522;e;130096;e;23753;e;5648;e;19905;e;8893;e;17528;e;8446;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;61898;e;77695;e;16733;e;10853;e;6347;e;24051;e;44906;e;6703;e;40498;e;100189;e;19873;e;4535;e;15998;e;8034;e;15367;e;7200;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;42484;e;49870;e;9578;e;5807;e;2579;e;12703;e;26723;e;3339;e;24125;e;65747;e;12979;e;2973;e;8979;e;4384;e;9694;e;4224;e
+WZ08-H;Verkehr und Lagerei;13158;e;18357;e;4191;e;3975;e;3325;e;9606;e;14146;e;2000;e;12472;e;25923;e;4867;e;1136;e;5016;e;2794;e;3836;e;2158;e
+WZ08-I;Gastgewerbe;6256;e;9467;e;2964;e;1071;e;443;e;1742;e;4038;e;1364;e;3901;e;8518;e;2027;e;425;e;2003;e;856;e;1837;e;818;e
+WZ08-J;Information und Kommunikation;19072;e;28203;e;9700;e;1501;e;1010;e;8043;e;12603;e;570;e;6023;e;29907;e;3880;e;1113;e;3907;e;859;e;2161;e;1247;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;103482;e;143631;e;39612;e;15447;e;7128;e;35674;e;82540;e;8647;e;65155;e;161672;e;28093;e;7393;e;24066;e;10857;e;19916;e;10729;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;16045;e;25020;e;4260;e;1241;e;933;e;5781;e;21030;e;736;e;9888;e;24893;e;3978;e;1341;e;2430;e;1062;e;2664;e;1023;e
+WZ08-L;Grundstücks- und Wohnungswesen;41402;e;57420;e;16288;e;7815;e;2682;e;12414;e;26358;e;4515;e;26737;e;66762;e;14001;e;3365;e;10618;e;5282;e;10567;e;5229;e
+WZ08-M-N;Unternehmensdienstleistungen;46035;e;61191;e;19063;e;6391;e;3513;e;17480;e;35152;e;3396;e;28529;e;70016;e;10114;e;2687;e;11018;e;4513;e;6684;e;4476;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;28754;e;37691;e;11991;e;2728;e;1954;e;10165;e;19424;e;1442;e;13090;e;41003;e;5748;e;1529;e;5885;e;1947;e;3231;e;2063;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;17282;e;23500;e;7072;e;3663;e;1559;e;7315;e;15728;e;1954;e;15439;e;29013;e;4366;e;1158;e;5133;e;2566;e;3454;e;2413;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;77848;e;99952;e;38151;e;17283;e;6327;e;18410;e;47792;e;12795;e;59250;e;140606;e;29736;e;7750;e;29235;e;15341;e;21372;e;15947;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;64507;e;81920;e;30722;e;14862;e;5214;e;14859;e;39224;e;11115;e;50466;e;117779;e;25109;e;6595;e;24942;e;13350;e;18096;e;13689;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;18240;e;25066;e;11069;e;5786;e;1467;e;5043;e;12017;e;4453;e;16231;e;34893;e;8306;e;2045;e;7837;e;4586;e;6213;e;4456;e
+WZ08-P;Erziehung und Unterricht;17482;e;20675;e;7688;e;3003;e;1411;e;3258;e;10214;e;2348;e;12635;e;29069;e;6364;e;1576;e;6353;e;3197;e;3964;e;3343;e
+WZ08-Q;Gesundheits- und Sozialwesen;28786;e;36179;e;11965;e;6074;e;2336;e;6557;e;16994;e;4314;e;21600;e;53816;e;10439;e;2974;e;10752;e;5567;e;7918;e;5890;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;13341;e;18032;e;7429;e;2420;e;1113;e;3551;e;8567;e;1680;e;8783;e;22827;e;4627;e;1156;e;4293;e;1991;e;3276;e;2259;e
+WZ08-R;Kunst, Unterhaltung und Erholung;4117;e;5368;e;2882;e;693;e;426;e;1517;e;2596;e;467;e;2634;e;6772;e;1218;e;372;e;1588;e;550;e;1000;e;579;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;8269;e;11195;e;4295;e;1651;e;645;e;1815;e;5430;e;1163;e;5527;e;14228;e;2997;e;707;e;2599;e;1388;e;2048;e;1628;e
+WZ08-T;Private Haushalte;955;e;1469;e;251;e;76;e;42;e;219;e;541;e;50;e;622;e;1828;e;412;e;76;e;105;e;53;e;229;e;51;e
+;Insgesamt;431163;e;524310;e;121813;e;61389;e;28459;e;102796;e;248828;e;37249;e;255235;e;594108;e;124475;e;31262;e;106303;e;52824;e;78329;e;53604;e
+2017;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2542;e;5519;e;9;e;1293;e;32;e;73;e;1042;e;1317;e;5972;e;3942;e;1890;e;60;e;1301;e;1405;e;1297;e;970;e
+WZ08-B-F;Produzierendes Gewerbe;174376;e;179796;e;17721;e;15955;e;7939;e;17814;e;60578;e;8917;e;80054;e;162789;e;40336;e;10901;e;33152;e;17067;e;20051;e;18344;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;155503;e;155363;e;13293;e;11987;e;7026;e;15300;e;51286;e;5977;e;67927;e;140192;e;34358;e;9621;e;26028;e;13645;e;15964;e;14963;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;489;e;585;e;1;e;372;e;3;e;172;e;120;e;39;e;829;e;583;e;200;e;24;e;355;e;359;e;139;e;61;e
+WZ08-C;Verarbeitendes Gewerbe;148671;e;146230;e;10465;e;8773;e;6326;e;13433;e;47288;e;4564;e;61019;e;123023;e;30907;e;8664;e;22581;e;10998;e;13400;e;13371;e
+WZ08-D;Energieversorgung;3819;e;4622;e;816;e;1825;e;309;e;669;e;2018;e;790;e;3595;e;8332;e;1153;e;403;e;1633;e;1184;e;1525;e;604;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;2524;e;3926;e;2012;e;1017;e;389;e;1027;e;1859;e;584;e;2484;e;8255;e;8255;e;530;e;1459;e;1104;e;900;e;927;e
+WZ08-F;Baugewerbe;18873;e;24433;e;4428;e;3968;e;913;e;2514;e;9292;e;2940;e;12127;e;22597;e;5979;e;1280;e;7124;e;3422;e;4087;e;3381;e
+WZ08-G-T;Dienstleistungsbereiche;274983;e;364552;e;111341;e;47239;e;21376;e;90810;e;195966;e;29990;e;175394;e;453977;e;84759;e;21552;e;76339;e;36400;e;61959;e;36225;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;86529;e;113127;e;29119;e;13046;e;7452;e;34505;e;60888;e;7905;e;48457;e;139191;e;24789;e;5830;e;21354;e;9235;e;19325;e;8560;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;66080;e;83339;e;18522;e;11489;e;6376;e;26110;e;47665;e;7332;e;42322;e;107537;e;20665;e;4738;e;17226;e;8366;e;16979;e;7497;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;46041;e;54385;e;10785;e;6105;e;2677;e;13336;e;28373;e;3663;e;25533;e;71394;e;13616;e;3171;e;9828;e;4659;e;10555;e;4490;e
+WZ08-H;Verkehr und Lagerei;13430;e;18930;e;4508;e;4223;e;3244;e;10868;e;14998;e;2209;e;12691;e;27164;e;4902;e;1111;e;5280;e;2784;e;4497;e;2153;e
+WZ08-I;Gastgewerbe;6609;e;10025;e;3229;e;1161;e;455;e;1906;e;4294;e;1459;e;4098;e;8979;e;2146;e;456;e;2119;e;923;e;1928;e;854;e
+WZ08-J;Information und Kommunikation;20449;e;29788;e;10596;e;1556;e;1077;e;8394;e;13223;e;573;e;6135;e;31654;e;4125;e;1092;e;4128;e;869;e;2345;e;1063;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;107732;e;147674;e;42009;e;16049;e;7373;e;36872;e;85540;e;8919;e;65236;e;168296;e;29038;e;7662;e;24719;e;11056;e;20297;e;11194;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;16227;e;24794;e;4104;e;1249;e;902;e;5373;e;20824;e;709;e;9728;e;24654;e;4166;e;1331;e;2402;e;1043;e;2618;e;1016;e
+WZ08-L;Grundstücks- und Wohnungswesen;42535;e;58591;e;16499;e;8208;e;2757;e;13101;e;26888;e;4632;e;27415;e;67442;e;14146;e;3511;e;10780;e;5333;e;10778;e;5370;e
+WZ08-M-N;Unternehmensdienstleistungen;48971;e;64289;e;21406;e;6591;e;3714;e;18399;e;37828;e;3578;e;28093;e;76200;e;10727;e;2820;e;11537;e;4680;e;6901;e;4808;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;31058;e;39916;e;13729;e;2807;e;2150;e;11118;e;21376;e;1517;e;14335;e;45471;e;6135;e;1582;e;6111;e;2034;e;3495;e;2206;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;17913;e;24372;e;7677;e;3784;e;1565;e;7281;e;16452;e;2061;e;13758;e;30729;e;4591;e;1239;e;5426;e;2646;e;3406;e;2602;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;80722;e;103751;e;40214;e;18145;e;6550;e;19433;e;49539;e;13165;e;61701;e;146490;e;30931;e;8060;e;30266;e;16109;e;22337;e;16471;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;67135;e;85808;e;32576;e;15709;e;5449;e;15680;e;40720;e;11473;e;52879;e;123250;e;26174;e;6885;e;25796;e;14077;e;19011;e;14260;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;19148;e;26305;e;11704;e;6047;e;1520;e;5257;e;12471;e;4544;e;16974;e;36430;e;8622;e;2117;e;8029;e;4691;e;6509;e;4601;e
+WZ08-P;Erziehung und Unterricht;18045;e;21383;e;8085;e;3095;e;1518;e;3429;e;10521;e;2366;e;13043;e;29936;e;6543;e;1645;e;6657;e;3336;e;4148;e;3440;e
+WZ08-Q;Gesundheits- und Sozialwesen;29942;e;38120;e;12788;e;6566;e;2411;e;6994;e;17727;e;4563;e;22863;e;56884;e;11010;e;3123;e;11109;e;6049;e;8354;e;6219;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;13587;e;17944;e;7638;e;2436;e;1101;e;3753;e;8819;e;1692;e;8822;e;23240;e;4757;e;1175;e;4470;e;2033;e;3326;e;2212;e
+WZ08-R;Kunst, Unterhaltung und Erholung;4301;e;5581;e;3014;e;695;e;429;e;1652;e;2697;e;471;e;2692;e;7006;e;1245;e;373;e;1678;e;566;e;1028;e;601;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;8325;e;10859;e;4356;e;1660;e;631;e;1873;e;5562;e;1169;e;5497;e;14369;e;3092;e;725;e;2676;e;1411;e;2063;e;1556;e
+WZ08-T;Private Haushalte;962;e;1504;e;267;e;82;e;41;e;228;e;560;e;52;e;632;e;1864;e;420;e;77;e;115;e;56;e;235;e;55;e
+;Insgesamt;451901;e;549867;e;129071;e;64487;e;29347;e;108697;e;257586;e;40224;e;261420;e;620708;e;126984;e;32513;e;110792;e;54873;e;83306;e;55539;e
+2018;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2467;e;4956;e;9;e;1048;e;34;e;79;e;1001;e;1146;e;5306;e;3241;e;1830;e;57;e;1212;e;1150;e;1040;e;920;e
+WZ08-B-F;Produzierendes Gewerbe;181486;e;180981;e;17992;e;16815;e;7659;e;18245;e;60488;e;8378;e;85811;e;167493;e;40740;e;10780;e;33871;e;17516;e;20804;e;18663;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;160866;e;154287;e;13209;e;12372;e;6663;e;15390;e;50592;e;5840;e;72841;e;143382;e;34354;e;9438;e;26241;e;13791;e;16258;e;15140;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;520;e;570;e;1;e;380;e;3;e;147;e;125;e;43;e;879;e;557;e;220;e;23;e;364;e;357;e;138;e;63;e
+WZ08-C;Verarbeitendes Gewerbe;153779;e;145085;e;10436;e;9034;e;6030;e;13436;e;46482;e;4400;e;65640;e;125652;e;30876;e;8541;e;22699;e;11028;e;13454;e;13551;e
+WZ08-D;Energieversorgung;3990;e;4463;e;747;e;1880;e;290;e;712;e;2001;e;790;e;3720;e;8411;e;1183;e;325;e;1670;e;1194;e;1669;e;585;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;2576;e;4169;e;2025;e;1077;e;339;e;1095;e;1983;e;606;e;2602;e;8762;e;8762;e;548;e;1507;e;1212;e;996;e;942;e
+WZ08-F;Baugewerbe;20619;e;26694;e;4783;e;4444;e;996;e;2854;e;9897;e;2539;e;12970;e;24111;e;6386;e;1342;e;7630;e;3725;e;4545;e;3523;e
+WZ08-G-T;Dienstleistungsbereiche;286128;e;377115;e;118137;e;48379;e;22225;e;93422;e;201940;e;31003;e;180894;e;470598;e;87127;e;22083;e;78923;e;37160;e;64034;e;36931;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;91234;e;116811;e;31127;e;13384;e;7824;e;35654;e;64118;e;8249;e;50537;e;145449;e;25601;e;6046;e;22124;e;9470;e;20225;e;8729;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;68666;e;85605;e;19087;e;11743;e;6629;e;26945;e;49650;e;7630;e;44026;e;110099;e;21431;e;4868;e;17730;e;8617;e;17815;e;7661;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;47508;e;55619;e;11209;e;6146;e;2764;e;13300;e;28980;e;3793;e;25994;e;72480;e;14004;e;3248;e;9979;e;4780;e;11005;e;4616;e
+WZ08-H;Verkehr und Lagerei;14118;e;19528;e;4406;e;4363;e;3379;e;11608;e;16086;e;2310;e;13658;e;28071;e;5145;e;1132;e;5490;e;2872;e;4727;e;2147;e
+WZ08-I;Gastgewerbe;7040;e;10458;e;3473;e;1233;e;486;e;2037;e;4584;e;1527;e;4374;e;9549;e;2282;e;488;e;2260;e;965;e;2083;e;898;e
+WZ08-J;Information und Kommunikation;22568;e;31206;e;12039;e;1641;e;1195;e;8709;e;14468;e;620;e;6511;e;35350;e;4170;e;1179;e;4395;e;853;e;2409;e;1068;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;112187;e;152476;e;44858;e;16198;e;7561;e;37580;e;86430;e;9045;e;66852;e;173513;e;29545;e;7727;e;25233;e;11150;e;20800;e;11359;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;16850;e;24212;e;4127;e;1153;e;817;e;5520;e;20431;e;673;e;9705;e;24670;e;4083;e;1363;e;2313;e;1024;e;2527;e;978;e
+WZ08-L;Grundstücks- und Wohnungswesen;43703;e;59839;e;17351;e;8017;e;2858;e;12832;e;27364;e;4650;e;27734;e;67979;e;14137;e;3490;e;10897;e;5348;e;10869;e;5358;e
+WZ08-M-N;Unternehmensdienstleistungen;51633;e;68425;e;23381;e;7029;e;3887;e;19228;e;38635;e;3722;e;29413;e;80863;e;11324;e;2875;e;12023;e;4778;e;7404;e;5023;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;32190;e;42732;e;14846;e;2975;e;2265;e;11263;e;21993;e;1526;e;14893;e;47329;e;6519;e;1576;e;6428;e;2069;e;3749;e;2260;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;19443;e;25693;e;8535;e;4054;e;1621;e;7965;e;16642;e;2196;e;14520;e;33534;e;4806;e;1299;e;5595;e;2709;e;3655;e;2763;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;82707;e;107828;e;42153;e;18798;e;6840;e;20188;e;51393;e;13708;e;63506;e;151636;e;31980;e;8310;e;31565;e;16541;e;23009;e;16843;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;69058;e;89348;e;34050;e;16328;e;5691;e;16356;e;42659;e;11884;e;54577;e;127988;e;27144;e;7115;e;27096;e;14523;e;19706;e;14672;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;19858;e;27471;e;12408;e;6289;e;1582;e;5424;e;13136;e;4648;e;17689;e;37932;e;8972;e;2186;e;8430;e;4823;e;6765;e;4704;e
+WZ08-P;Erziehung und Unterricht;18382;e;21933;e;8603;e;3274;e;1609;e;3592;e;11272;e;2444;e;13581;e;31134;e;6811;e;1691;e;7051;e;3407;e;4390;e;3600;e
+WZ08-Q;Gesundheits- und Sozialwesen;30818;e;39944;e;13038;e;6765;e;2500;e;7340;e;18251;e;4792;e;23307;e;58923;e;11361;e;3237;e;11615;e;6293;e;8552;e;6368;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;13649;e;18480;e;8103;e;2470;e;1149;e;3832;e;8734;e;1824;e;8928;e;23647;e;4837;e;1195;e;4469;e;2018;e;3303;e;2170;e
+WZ08-R;Kunst, Unterhaltung und Erholung;4243;e;5751;e;3140;e;741;e;452;e;1692;e;2699;e;496;e;2747;e;7429;e;1229;e;363;e;1684;e;576;e;1017;e;595;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;8423;e;11184;e;4676;e;1642;e;657;e;1900;e;5455;e;1267;e;5542;e;14323;e;3178;e;755;e;2662;e;1384;e;2045;e;1519;e
+WZ08-T;Private Haushalte;984;e;1544;e;287;e;86;e;41;e;239;e;580;e;61;e;639;e;1896;e;429;e;77;e;123;e;57;e;241;e;56;e
+;Insgesamt;470081;e;563051;e;136138;e;66242;e;29918;e;111746;e;263430;e;40527;e;272012;e;641332;e;129697;e;32920;e;114005;e;55827;e;85877;e;56514;e
+2019;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2650;e;5255;e;9;e;1212;e;28;e;90;e;1058;e;1399;e;6220;e;4160;e;2306;e;57;e;1282;e;1302;e;1484;e;957;e
+WZ08-B-F;Produzierendes Gewerbe;178928;e;188303;e;18536;e;17501;e;7374;e;19424;e;61774;e;9278;e;88784;e;168608;e;41261;e;10059;e;34779;e;18351;e;21836;e;18683;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;157518;e;160247;e;13443;e;12703;e;6372;e;16339;e;51629;e;6549;e;74990;e;143531;e;34622;e;8676;e;26817;e;14489;e;16998;e;15135;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;549;e;603;e;1;e;463;e;4;e;79;e;152;e;50;e;763;e;785;e;235;e;28;e;405;e;353;e;70;e;76;e
+WZ08-C;Verarbeitendes Gewerbe;149583;e;150069;e;10475;e;9014;e;5694;e;14192;e;47171;e;4853;e;67147;e;124256;e;30980;e;7765;e;22967;e;11500;e;13957;e;13407;e
+WZ08-D;Energieversorgung;4631;e;5210;e;865;e;2119;e;337;e;808;e;2240;e;984;e;4336;e;9398;e;1376;e;360;e;1891;e;1386;e;1929;e;668;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;2756;e;4366;e;2103;e;1108;e;336;e;1260;e;2065;e;662;e;2744;e;9092;e;9092;e;522;e;1553;e;1250;e;1041;e;985;e
+WZ08-F;Baugewerbe;21410;e;28056;e;5093;e;4798;e;1002;e;3084;e;10146;e;2729;e;13794;e;25077;e;6639;e;1383;e;7962;e;3862;e;4838;e;3548;e
+WZ08-G-T;Dienstleistungsbereiche;297122;e;389000;e;124409;e;50378;e;22563;e;97052;e;208306;e;32453;e;186386;e;481881;e;90276;e;22952;e;82399;e;38777;e;66420;e;38350;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;96948;e;122025;e;33127;e;14017;e;7912;e;37200;e;65863;e;8757;e;52594;e;146259;e;27115;e;6421;e;23477;e;10143;e;20979;e;9307;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;72449;e;89146;e;19651;e;11984;e;6596;e;27781;e;51387;e;7993;e;45370;e;112441;e;22683;e;5119;e;18464;e;9088;e;18389;e;8037;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;49572;e;57493;e;11758;e;6299;e;2755;e;13474;e;30482;e;3938;e;26832;e;73482;e;14760;e;3348;e;10376;e;4964;e;11286;e;4737;e
+WZ08-H;Verkehr und Lagerei;15401;e;20531;e;4104;e;4365;e;3335;e;12132;e;16032;e;2460;e;13838;e;28626;e;5515;e;1243;e;5672;e;3086;e;4883;e;2337;e
+WZ08-I;Gastgewerbe;7476;e;11122;e;3789;e;1320;e;505;e;2175;e;4874;e;1595;e;4700;e;10332;e;2408;e;527;e;2416;e;1038;e;2220;e;963;e
+WZ08-J;Information und Kommunikation;24499;e;32879;e;13476;e;2033;e;1316;e;9419;e;14477;e;764;e;7224;e;33819;e;4432;e;1302;e;5013;e;1055;e;2590;e;1269;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;113080;e;154494;e;46315;e;16488;e;7446;e;38284;e;87814;e;9421;e;67049;e;175661;e;29535;e;7748;e;25746;e;11350;e;21184;e;11468;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;16418;e;25244;e;4464;e;1235;e;805;e;5917;e;22306;e;740;e;10166;e;25826;e;4213;e;1361;e;2484;e;1088;e;2620;e;1061;e
+WZ08-L;Grundstücks- und Wohnungswesen;45049;e;61253;e;17859;e;8374;e;2892;e;13137;e;27959;e;4804;e;28212;e;68651;e;14328;e;3518;e;11133;e;5389;e;11197;e;5351;e
+WZ08-M-N;Unternehmensdienstleistungen;51613;e;67997;e;23992;e;6880;e;3748;e;19229;e;37550;e;3877;e;28670;e;81185;e;10994;e;2869;e;12129;e;4872;e;7367;e;5055;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;31722;e;41929;e;14874;e;2951;e;2136;e;11228;e;21971;e;1589;e;14465;e;47021;e;6127;e;1626;e;6538;e;2057;e;3684;e;2283;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;19891;e;26069;e;9118;e;3929;e;1613;e;8001;e;15579;e;2288;e;14206;e;34164;e;4867;e;1242;e;5591;e;2815;e;3683;e;2772;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;87094;e;112481;e;44967;e;19873;e;7206;e;21568;e;54629;e;14275;e;66743;e;159961;e;33626;e;8782;e;33177;e;17284;e;24257;e;17576;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;72783;e;93346;e;36381;e;17280;e;6011;e;17389;e;45623;e;12420;e;57464;e;135451;e;28676;e;7633;e;28509;e;15191;e;20833;e;15290;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;20911;e;28925;e;13367;e;6565;e;1672;e;5718;e;13852;e;4826;e;18453;e;40219;e;9411;e;2257;e;8636;e;4963;e;7144;e;4869;e
+WZ08-P;Erziehung und Unterricht;19323;e;22923;e;9215;e;3395;e;1751;e;3838;e;11922;e;2562;e;14361;e;32719;e;7152;e;1771;e;7322;e;3439;e;4620;e;3711;e
+WZ08-Q;Gesundheits- und Sozialwesen;32548;e;41497;e;13799;e;7320;e;2588;e;7832;e;19849;e;5032;e;24650;e;62513;e;12113;e;3606;e;12551;e;6789;e;9069;e;6710;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;14311;e;19135;e;8586;e;2592;e;1195;e;4180;e;9005;e;1855;e;9279;e;24510;e;4950;e;1149;e;4668;e;2093;e;3424;e;2286;e
+WZ08-R;Kunst, Unterhaltung und Erholung;4430;e;5989;e;3380;e;771;e;484;e;1822;e;2777;e;515;e;2841;e;7697;e;1261;e;346;e;1756;e;588;e;1046;e;610;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;8860;e;11528;e;4891;e;1724;e;667;e;2106;e;5626;e;1265;e;5763;e;14820;e;3237;e;719;e;2776;e;1444;e;2124;e;1615;e
+WZ08-T;Private Haushalte;1021;e;1619;e;315;e;97;e;44;e;252;e;603;e;75;e;676;e;1993;e;453;e;84;e;137;e;62;e;254;e;61;e
+;Insgesamt;478700;e;582558;e;142955;e;69091;e;29965;e;116566;e;271139;e;43130;e;281390;e;654649;e;133844;e;33067;e;118460;e;58430;e;89740;e;57991;e
+2020;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2210;e;4191;e;7;e;1106;e;18;e;105;e;741;e;1459;e;5224;e;3332;e;1713;e;38;e;1168;e;1407;e;1444;e;980;e
+WZ08-B-F;Produzierendes Gewerbe;170220;e;181721;e;18375;e;17264;e;6848;e;16620;e;59475;e;9407;e;84825;e;163784;e;39987;e;9224;e;33991;e;17991;e;22579;e;18493;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;147444;e;151412;e;12783;e;12127;e;5845;e;13329;e;48857;e;6348;e;69559;e;136286;e;32741;e;7750;e;25619;e;13911;e;17339;e;14733;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;543;e;644;e;4;e;403;e;5;e;105;e;166;e;50;e;590;e;773;e;217;e;29;e;360;e;337;e;88;e;97;e
+WZ08-C;Verarbeitendes Gewerbe;139763;e;140996;e;9769;e;8453;e;5211;e;11193;e;44458;e;4594;e;61737;e;117234;e;29135;e;6874;e;21818;e;10965;e;14182;e;12951;e
+WZ08-D;Energieversorgung;4296;e;5241;e;944;e;2087;e;282;e;731;e;2146;e;1016;e;4463;e;8981;e;1406;e;360;e;1855;e;1388;e;1997;e;705;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;2842;e;4532;e;2066;e;1184;e;347;e;1299;e;2087;e;688;e;2769;e;9299;e;9299;e;488;e;1586;e;1222;e;1073;e;980;e
+WZ08-F;Baugewerbe;22776;e;30308;e;5592;e;5137;e;1003;e;3290;e;10618;e;3059;e;15266;e;27498;e;7245;e;1474;e;8372;e;4079;e;5239;e;3760;e
+WZ08-G-T;Dienstleistungsbereiche;291430;e;384607;e;124922;e;50125;e;22405;e;95223;e;204254;e;31585;e;185611;e;477706;e;90432;e;22614;e;81103;e;38375;e;65820;e;37940;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;92182;e;118427;e;32089;e;13639;e;7654;e;35246;e;61173;e;7951;e;50534;e;143674;e;26062;e;6353;e;21808;e;9757;e;20025;e;9029;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;68575;e;84465;e;18337;e;11772;e;6319;e;26079;e;47096;e;7175;e;43414;e;109488;e;21655;e;4999;e;17070;e;8685;e;17374;e;7636;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;50766;e;60989;e;13011;e;6914;e;2851;e;13934;e;31435;e;4250;e;28414;e;75315;e;15381;e;3573;e;10881;e;5211;e;11988;e;4976;e
+WZ08-H;Verkehr und Lagerei;13780;e;17712;e;3377;e;4083;e;3191;e;10971;e;13147;e;2027;e;12457;e;28489;e;4997;e;1139;e;4758;e;2870;e;4124;e;2112;e
+WZ08-I;Gastgewerbe;4029;e;5764;e;1950;e;775;e;276;e;1174;e;2514;e;898;e;2543;e;5685;e;1278;e;286;e;1431;e;604;e;1261;e;548;e
+WZ08-J;Information und Kommunikation;23608;e;33962;e;13752;e;1867;e;1335;e;9167;e;14077;e;775;e;7119;e;34186;e;4407;e;1354;e;4738;e;1072;e;2651;e;1392;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;112206;e;153129;e;46562;e;16429;e;7489;e;38401;e;88915;e;9292;e;67908;e;173209;e;29719;e;7595;e;25771;e;11220;e;21363;e;11383;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;16680;e;25351;e;4816;e;1312;e;813;e;6387;e;23474;e;789;e;10079;e;25550;e;4253;e;1328;e;2589;e;1123;e;2685;e;1106;e
+WZ08-L;Grundstücks- und Wohnungswesen;45682;e;61319;e;18396;e;8520;e;3097;e;13689;e;28424;e;4827;e;28792;e;68629;e;14799;e;3471;e;11284;e;5343;e;11508;e;5393;e
+WZ08-M-N;Unternehmensdienstleistungen;49844;e;66459;e;23351;e;6597;e;3579;e;18326;e;37017;e;3675;e;29036;e;79030;e;10666;e;2797;e;11897;e;4754;e;7170;e;4884;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;31578;e;43833;e;15104;e;3072;e;2160;e;11071;e;22299;e;1630;e;14482;e;46909;e;6273;e;1628;e;6741;e;2113;e;3754;e;2369;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;18265;e;22626;e;8247;e;3525;e;1419;e;7254;e;14718;e;2045;e;14555;e;32121;e;4394;e;1169;e;5156;e;2641;e;3416;e;2515;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;87041;e;113051;e;46272;e;20058;e;7262;e;21576;e;54167;e;14343;e;67170;e;160823;e;34651;e;8666;e;33525;e;17398;e;24432;e;17528;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;74798;e;96401;e;38350;e;17815;e;6226;e;18072;e;46598;e;12841;e;59172;e;139533;e;30345;e;7682;e;29398;e;15550;e;21409;e;15494;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;21741;e;30019;e;14264;e;6773;e;1767;e;5904;e;14387;e;4946;e;19074;e;41364;e;9775;e;2304;e;8917;e;5066;e;7342;e;4970;e
+WZ08-P;Erziehung und Unterricht;19721;e;23197;e;9470;e;3492;e;1768;e;3876;e;12015;e;2592;e;14477;e;33638;e;7320;e;1793;e;7548;e;3474;e;4675;e;3630;e
+WZ08-Q;Gesundheits- und Sozialwesen;33336;e;43184;e;14617;e;7551;e;2691;e;8292;e;20196;e;5303;e;25621;e;64531;e;13250;e;3584;e;12933;e;7009;e;9393;e;6894;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;12243;e;16650;e;7921;e;2243;e;1036;e;3504;e;7568;e;1501;e;7998;e;21289;e;4306;e;985;e;4126;e;1848;e;3023;e;2034;e
+WZ08-R;Kunst, Unterhaltung und Erholung;3487;e;4776;e;2810;e;657;e;386;e;1370;e;2136;e;416;e;2277;e;6212;e;1014;e;293;e;1510;e;492;e;848;e;503;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;7724;e;10222;e;4783;e;1482;e;606;e;1880;e;4827;e;1002;e;5038;e;13088;e;2842;e;605;e;2478;e;1293;e;1913;e;1470;e
+WZ08-T;Private Haushalte;1032;e;1652;e;329;e;104;e;45;e;254;e;605;e;83;e;683;e;1988;e;449;e;87;e;139;e;63;e;262;e;61;e
+;Insgesamt;463860;e;570519;e;143304;e;68495;e;29271;e;111947;e;264470;e;42451;e;275660;e;644821;e;132132;e;31875;e;116262;e;57773;e;89843;e;57414;e
+2021;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;2325;e;4954;e;7;e;1198;e;15;e;94;e;914;e;1725;e;5046;e;3764;e;1877;e;47;e;1459;e;1729;e;1409;e;1197;e
+WZ08-B-F;Produzierendes Gewerbe;186553;e;190725;e;18589;e;18728;e;7902;e;19139;e;63964;e;10008;e;87267;e;172602;e;44509;e;10044;e;35133;e;18933;e;22898;e;19375;e
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;162723;e;159040;e;12910;e;13327;e;6955;e;15455;e;52400;e;7000;e;70903;e;143526;e;36992;e;8515;e;26664;e;14740;e;17530;e;15534;e
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;583;e;655;e;4;e;410;e;1;e;82;e;155;e;61;e;785;e;800;e;255;e;26;e;351;e;357;e;138;e;100;e
+WZ08-C;Verarbeitendes Gewerbe;154361;e;147974;e;9773;e;9581;e;6289;e;13393;e;47762;e;5143;e;62538;e;123956;e;33250;e;7600;e;22707;e;11705;e;14152;e;13722;e
+WZ08-D;Energieversorgung;4895;e;5764;e;1012;e;2184;e;303;e;749;e;2334;e;1075;e;4654;e;9701;e;1465;e;392;e;2002;e;1395;e;2111;e;718;e
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;2883;e;4648;e;2120;e;1152;e;362;e;1232;e;2149;e;721;e;2926;e;9068;e;9068;e;496;e;1604;e;1282;e;1128;e;994;e
+WZ08-F;Baugewerbe;23830;e;31684;e;5679;e;5401;e;947;e;3684;e;11564;e;3008;e;16364;e;29075;e;7517;e;1529;e;8469;e;4194;e;5369;e;3841;e
+WZ08-G-T;Dienstleistungsbereiche;307214;e;407691;e;133705;e;52699;e;24121;e;104876;e;216028;e;33140;e;195601;e;503571;e;103162;e;23055;e;85095;e;39906;e;70940;e;39151;e
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;101203;e;125557;e;35064;e;14613;e;8965;e;42343;e;66929;e;8602;e;54734;e;154662;e;27996;e;6500;e;23308;e;10505;e;23352;e;9257;e
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;76168;e;89150;e;19221;e;12782;e;7539;e;32856;e;51414;e;7799;e;47225;e;117332;e;22836;e;5118;e;18279;e;9485;e;20665;e;7921;e
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;55275;e;62424;e;13403;e;7153;e;3195;e;14448;e;32346;e;4497;e;29490;e;78931;e;15808;e;3643;e;10743;e;5587;e;12446;e;5036;e
+WZ08-H;Verkehr und Lagerei;16262;e;20025;e;3546;e;4728;e;4028;e;17042;e;16201;e;2214;e;14716;e;31742;e;5509;e;1139;e;5933;e;3185;e;6636;e;2251;e
+WZ08-I;Gastgewerbe;4630;e;6701;e;2272;e;901;e;316;e;1366;e;2868;e;1088;e;3020;e;6659;e;1518;e;336;e;1603;e;714;e;1583;e;635;e
+WZ08-J;Information und Kommunikation;25036;e;36407;e;15843;e;1831;e;1426;e;9487;e;15515;e;803;e;7509;e;37330;e;5160;e;1382;e;5028;e;1020;e;2687;e;1335;e
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;116703;e;165473;e;49969;e;17162;e;7642;e;40242;e;93344;e;9725;e;71441;e;182697;e;40526;e;7882;e;27061;e;11482;e;22343;e;11860;e
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;17211;e;29166;e;5107;e;1416;e;824;e;6277;e;24972;e;837;e;11635;e;27564;e;4549;e;1368;e;2721;e;1185;e;2844;e;1160;e
+WZ08-L;Grundstücks- und Wohnungswesen;46829;e;63645;e;18740;e;8814;e;2957;e;13181;e;28900;e;4887;e;29618;e;69745;e;14850;e;3446;e;11614;e;5425;e;11628;e;5431;e
+WZ08-M-N;Unternehmensdienstleistungen;52663;e;72662;e;26122;e;6931;e;3861;e;20784;e;39472;e;4001;e;30188;e;85388;e;21127;e;3068;e;12725;e;4872;e;7872;e;5269;e
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;33065;e;45985;e;17094;e;3310;e;2296;e;12218;e;23776;e;1718;e;15126;e;50258;e;16270;e;1789;e;7238;e;2225;e;4067;e;2479;e
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;19598;e;26677;e;9028;e;3622;e;1565;e;8567;e;15696;e;2283;e;15062;e;35130;e;4857;e;1279;e;5487;e;2646;e;3805;e;2790;e
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;89307;e;116661;e;48672;e;20924;e;7514;e;22291;e;55755;e;14813;e;69426;e;166212;e;34640;e;8673;e;34727;e;17918;e;25245;e;18034;e
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;76955;e;99935;e;40466;e;18605;e;6467;e;18638;e;48101;e;13260;e;61302;e;144712;e;30327;e;7713;e;30445;e;16038;e;22154;e;15955;e
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;22842;e;31299;e;15301;e;7072;e;1854;e;6219;e;15121;e;5110;e;19903;e;43823;e;10185;e;2369;e;9142;e;5268;e;7678;e;5175;e
+WZ08-P;Erziehung und Unterricht;20466;e;24123;e;9970;e;3682;e;1842;e;4196;e;12496;e;2659;e;14985;e;35199;e;7597;e;1865;e;7731;e;3523;e;4863;e;3748;e
+WZ08-Q;Gesundheits- und Sozialwesen;33647;e;44513;e;15196;e;7851;e;2771;e;8222;e;20484;e;5490;e;26414;e;65691;e;12544;e;3479;e;13572;e;7247;e;9612;e;7032;e
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;12352;e;16726;e;8206;e;2320;e;1047;e;3653;e;7654;e;1553;e;8124;e;21500;e;4314;e;960;e;4282;e;1881;e;3091;e;2079;e
+WZ08-R;Kunst, Unterhaltung und Erholung;3374;e;4695;e;2859;e;668;e;372;e;1442;e;2157;e;421;e;2224;e;6078;e;974;e;255;e;1517;e;481;e;815;e;482;e
+WZ08-S;Erbringung von sonstigen Dienstleistungen;7923;e;10319;e;4996;e;1544;e;627;e;1947;e;4876;e;1035;e;5188;e;13387;e;2877;e;614;e;2620;e;1334;e;2000;e;1533;e
+WZ08-T;Private Haushalte;1056;e;1712;e;350;e;108;e;48;e;264;e;622;e;97;e;712;e;2035;e;462;e;91;e;145;e;65;e;276;e;64;e
+;Insgesamt;496092;e;603370;e;152301;e;72626;e;32039;e;124109;e;280906;e;44873;e;287914;e;679937;e;149547;e;33146;e;121687;e;60568;e;95248;e;59723;e
+2022;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;3301;p;7069;p;9;p;1715;p;25;p;111;p;1308;p;2366;p;8115;p;5283;p;2206;p;79;p;1975;p;2159;p;2281;p;1677;p
+WZ08-B-F;Produzierendes Gewerbe;204842;p;206389;p;20418;p;22971;p;8817;p;21859;p;68481;p;11500;p;95267;p;190901;p;48009;p;11696;p;39550;p;22244;p;25530;p;21227;p
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;179379;p;172366;p;14283;p;17312;p;7819;p;18046;p;56204;p;8218;p;77475;p;159292;p;39938;p;10124;p;30532;p;17874;p;19619;p;17281;p
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;577;p;651;p;45;p;584;p;1;p;119;p;156;p;68;p;1319;p;865;p;312;p;34;p;485;p;562;p;226;p;116;p
+WZ08-C;Verarbeitendes Gewerbe;167392;p;156831;p;10378;p;11509;p;6860;p;15233;p;49427;p;5409;p;64405;p;132129;p;35054;p;8818;p;24518;p;13406;p;14765;p;14792;p
+WZ08-D;Energieversorgung;8383;p;9637;p;1636;p;3985;p;558;p;1363;p;4012;p;1978;p;8194;p;16921;p;2442;p;769;p;3878;p;2591;p;3383;p;1299;p
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;3028;p;5247;p;2224;p;1233;p;399;p;1332;p;2609;p;763;p;3556;p;9377;p;9377;p;504;p;1652;p;1316;p;1245;p;1074;p
+WZ08-F;Baugewerbe;25463;p;34024;p;6135;p;5659;p;999;p;3813;p;12278;p;3282;p;17793;p;31609;p;8071;p;1572;p;9018;p;4369;p;5911;p;3946;p
+WZ08-G-T;Dienstleistungsbereiche;332800;p;443914;p;146902;p;56951;p;26312;p;120596;p;232669;p;36810;p;209597;p;536285;p;109122;p;24407;p;92169;p;42514;p;79400;p;42043;p
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;111618;p;143846;p;42089;p;16426;p;10066;p;52976;p;76510;p;10622;p;62326;p;168416;p;31381;p;7111;p;26695;p;11598;p;27875;p;10548;p
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;86068;p;107213;p;23449;p;14622;p;8610;p;42835;p;60912;p;9815;p;55076;p;134867;p;26271;p;5711;p;21344;p;10574;p;25289;p;9200;p
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;61287;p;72707;p;14592;p;7893;p;3726;p;17051;p;37940;p;5259;p;33805;p;88820;p;17821;p;4015;p;12317;p;6260;p;13944;p;5604;p
+WZ08-H;Verkehr und Lagerei;17034;p;22936;p;4900;p;5310;p;4358;p;23468;p;18148;p;2760;p;16268;p;35145;p;5872;p;1148;p;6437;p;3177;p;8817;p;2557;p
+WZ08-I;Gastgewerbe;7747;p;11570;p;3957;p;1419;p;527;p;2316;p;4824;p;1796;p;5002;p;10902;p;2578;p;548;p;2589;p;1137;p;2529;p;1039;p
+WZ08-J;Information und Kommunikation;25551;p;36632;p;18640;p;1803;p;1456;p;10140;p;15597;p;807;p;7250;p;33549;p;5110;p;1400;p;5351;p;1024;p;2586;p;1348;p
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;123899;p;173911;p;52456;p;17587;p;8133;p;42996;p;96192;p;10172;p;72658;p;188500;p;40922;p;7984;p;27806;p;11785;p;23892;p;11866;p
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;18150;p;27667;p;5090;p;1348;p;776;p;6028;p;23492;p;830;p;10919;p;26780;p;4758;p;1375;p;2710;p;1167;p;2806;p;1145;p
+WZ08-L;Grundstücks- und Wohnungswesen;47824;p;64999;p;19007;p;8946;p;3069;p;13768;p;29166;p;5074;p;29713;p;70896;p;15378;p;3454;p;11652;p;5485;p;12220;p;5410;p
+WZ08-M-N;Unternehmensdienstleistungen;57925;p;81245;p;28359;p;7293;p;4288;p;23200;p;43534;p;4268;p;32026;p;90825;p;20786;p;3155;p;13444;p;5133;p;8866;p;5312;p
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;33755;p;49077;p;17573;p;3154;p;2378;p;12958;p;24846;p;1752;p;15291;p;51153;p;14950;p;1760;p;7212;p;2169;p;4442;p;2393;p
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;24170;p;32168;p;10786;p;4139;p;1909;p;10242;p;18687;p;2516;p;16735;p;39672;p;5836;p;1395;p;6232;p;2965;p;4424;p;2918;p
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;97283;p;126157;p;52357;p;22938;p;8113;p;24624;p;59968;p;16016;p;74613;p;179369;p;36819;p;9312;p;37668;p;19131;p;27633;p;19630;p
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;82192;p;106543;p;42562;p;20153;p;6836;p;20102;p;50578;p;14103;p;65002;p;153645;p;31606;p;8176;p;32596;p;16895;p;23842;p;17165;p
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;24013;p;33083;p;16406;p;7560;p;1976;p;6602;p;16188;p;5409;p;21001;p;47162;p;10688;p;2487;p;9660;p;5463;p;8151;p;5445;p
+WZ08-P;Erziehung und Unterricht;22271;p;26188;p;10471;p;4185;p;1923;p;4636;p;13222;p;2821;p;16300;p;37210;p;7909;p;2030;p;8491;p;3757;p;5415;p;4169;p
+WZ08-Q;Gesundheits- und Sozialwesen;35908;p;47271;p;15685;p;8408;p;2937;p;8864;p;21168;p;5873;p;27702;p;69273;p;13009;p;3659;p;14445;p;7674;p;10276;p;7552;p
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;15091;p;19614;p;9796;p;2785;p;1277;p;4523;p;9390;p;1912;p;9611;p;25724;p;5213;p;1136;p;5073;p;2236;p;3791;p;2464;p
+WZ08-R;Kunst, Unterhaltung und Erholung;4842;p;5983;p;3660;p;862;p;504;p;1914;p;3065;p;584;p;2776;p;8008;p;1317;p;323;p;1958;p;604;p;1164;p;607;p
+WZ08-S;Erbringung von sonstigen Dienstleistungen;9131;p;11830;p;5752;p;1800;p;721;p;2318;p;5669;p;1221;p;6071;p;15543;p;3409;p;715;p;2959;p;1559;p;2331;p;1789;p
+WZ08-T;Private Haushalte;1118;p;1801;p;384;p;123;p;52;p;290;p;656;p;107;p;764;p;2172;p;487;p;97;p;156;p;73;p;296;p;67;p
+;Insgesamt;540944;p;657372;p;167328;p;81637;p;35154;p;142566;p;302459;p;50676;p;312980;p;732469;p;159337;p;36182;p;133694;p;66916;p;107211;p;64948;p
+2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;3192;p;6755;p;5;p;1505;p;17;p;87;p;1132;p;1772;p;8929;p;5755;p;2482;p;78;p;1891;p;1996;p;1883;p;1725;p
+WZ08-B-F;Produzierendes Gewerbe;228949;p;233911;p;23574;p;25847;p;9938;p;23415;p;74155;p;13300;p;105610;p;208443;p;50321;p;12719;p;44429;p;23762;p;28780;p;23446;p
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;201599;p;196628;p;16551;p;19894;p;8835;p;19353;p;61215;p;9806;p;86619;p;174631;p;41367;p;10999;p;35011;p;19048;p;22568;p;19269;p
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;712;p;830;p;5;p;628;p;0;p;161;p;199;p;78;p;1082;p;1055;p;354;p;35;p;536;p;469;p;187;p;132;p
+WZ08-C;Verarbeitendes Gewerbe;186717;p;177147;p;11844;p;11909;p;7662;p;15753;p;52755;p;6027;p;71063;p;140667;p;35086;p;9318;p;27698;p;13301;p;16137;p;16064;p
+WZ08-D;Energieversorgung;10965;p;13188;p;2424;p;6034;p;753;p;2044;p;5687;p;2910;p;11204;p;22636;p;3739;p;1099;p;4972;p;3776;p;4956;p;1939;p
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;3204;p;5463;p;2278;p;1322;p;419;p;1395;p;2575;p;791;p;3270;p;10272;p;10272;p;547;p;1804;p;1502;p;1287;p;1134;p
+WZ08-F;Baugewerbe;27350;p;37283;p;7023;p;5954;p;1103;p;4062;p;12940;p;3494;p;18991;p;33812;p;8954;p;1721;p;9418;p;4715;p;6212;p;4177;p
+WZ08-G-T;Dienstleistungsbereiche;354409;p;473977;p;158875;p;62264;p;26689;p;117742;p;252524;p;38993;p;223199;p;570220;p;108874;p;26298;p;98278;p;45659;p;81201;p;44929;p
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;116363;p;148303;p;44280;p;17623;p;9389;p;46101;p;82650;p;10952;p;63372;p;176159;p;32942;p;7476;p;27680;p;12512;p;25746;p;11240;p
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;87344;p;109246;p;23856;p;15783;p;7805;p;35591;p;65650;p;9989;p;55166;p;137212;p;27983;p;5890;p;22000;p;11315;p;22680;p;9629;p
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;60912;p;72261;p;15459;p;8550;p;3444;p;17430;p;39651;p;5453;p;33166;p;91104;p;18915;p;4154;p;12455;p;6542;p;14252;p;5747;p
+WZ08-H;Verkehr und Lagerei;17525;p;23653;p;3722;p;5601;p;3741;p;15383;p;20301;p;2596;p;16273;p;33513;p;6101;p;1119;p;6541;p;3497;p;5614;p;2689;p
+WZ08-I;Gastgewerbe;8907;p;13332;p;4676;p;1632;p;619;p;2778;p;5698;p;1939;p;5728;p;12595;p;2967;p;618;p;3005;p;1276;p;2814;p;1193;p
+WZ08-J;Information und Kommunikation;29019;p;39057;p;20424;p;1840;p;1584;p;10510;p;17000;p;964;p;8206;p;38947;p;4958;p;1586;p;5680;p;1197;p;3066;p;1611;p
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;134878;p;192168;p;58016;p;20157;p;8772;p;45469;p;105756;p;11084;p;80592;p;204587;p;36357;p;8885;p;30587;p;12830;p;25860;p;12782;p
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;19350;p;31177;p;5877;p;1360;p;854;p;6575;p;27516;p;868;p;12910;p;28352;p;4866;p;1406;p;2821;p;1163;p;2887;p;1186;p
+WZ08-L;Grundstücks- und Wohnungswesen;52098;p;70518;p;19991;p;10625;p;3284;p;14524;p;31349;p;5335;p;32172;p;76686;p;16841;p;3824;p;12429;p;5846;p;13053;p;5857;p
+WZ08-M-N;Unternehmensdienstleistungen;63430;p;90473;p;32148;p;8172;p;4634;p;24371;p;46891;p;4881;p;35510;p;99549;p;14650;p;3655;p;15336;p;5821;p;9920;p;5739;p
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;37883;p;56049;p;19999;p;3483;p;2655;p;14381;p;28300;p;1924;p;17253;p;56355;p;8471;p;2168;p;8443;p;2496;p;5127;p;2649;p
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;25547;p;34424;p;12150;p;4689;p;1979;p;9990;p;18591;p;2957;p;18257;p;43195;p;6179;p;1487;p;6893;p;3325;p;4792;p;3090;p
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;103168;p;133506;p;56579;p;24484;p;8529;p;26171;p;64118;p;16957;p;79235;p;189474;p;39576;p;9937;p;40011;p;20317;p;29595;p;20907;p
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;86926;p;112220;p;45757;p;21490;p;7129;p;21255;p;54045;p;14895;p;68954;p;162021;p;33980;p;8706;p;34588;p;17913;p;25493;p;18248;p
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;25822;p;35362;p;17861;p;8132;p;2132;p;6990;p;17555;p;5738;p;22355;p;51119;p;11328;p;2668;p;10381;p;5868;p;8702;p;5893;p
+WZ08-P;Erziehung und Unterricht;23177;p;27870;p;11182;p;4415;p;2003;p;4844;p;14325;p;2934;p;17105;p;38747;p;8658;p;2139;p;8950;p;3886;p;5672;p;4393;p
+WZ08-Q;Gesundheits- und Sozialwesen;37926;p;48988;p;16714;p;8943;p;2994;p;9421;p;22166;p;6223;p;29494;p;72155;p;13993;p;3899;p;15257;p;8159;p;11119;p;7962;p
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;16243;p;21286;p;10822;p;2994;p;1399;p;4916;p;10072;p;2062;p;10281;p;27453;p;5596;p;1231;p;5423;p;2404;p;4102;p;2660;p
+WZ08-R;Kunst, Unterhaltung und Erholung;5263;p;6713;p;4144;p;911;p;575;p;2155;p;3332;p;630;p;3046;p;8617;p;1438;p;355;p;2138;p;664;p;1267;p;679;p
+WZ08-S;Erbringung von sonstigen Dienstleistungen;9756;p;12611;p;6241;p;1941;p;765;p;2423;p;6025;p;1304;p;6384;p;16484;p;3633;p;773;p;3106;p;1657;p;2510;p;1907;p
+WZ08-T;Private Haushalte;1224;p;1963;p;437;p;142;p;58;p;338;p;715;p;128;p;851;p;2352;p;525;p;104;p;179;p;83;p;324;p;73;p
+;Insgesamt;586550;p;714644;p;182454;p;89616;p;36644;p;141244;p;327810;p;54065;p;337738;p;784418;p;161678;p;39096;p;144598;p;71418;p;111865;p;70101;p
+2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;3265;p;6830;p;5;p;1471;p;17;p;86;p;1116;p;1704;p;9343;p;5648;p;2605;p;85;p;1852;p;1947;p;1981;p;1628;p
+WZ08-B-F;Produzierendes Gewerbe;221908;p;226713;p;24790;p;25568;p;9893;p;26204;p;72136;p;13200;p;108732;p;202082;p;49063;p;11122;p;43620;p;22978;p;28630;p;22571;p
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;194249;p;188075;p;17128;p;19552;p;8782;p;21804;p;58598;p;9648;p;89163;p;167445;p;39692;p;9386;p;33852;p;18100;p;22270;p;18311;p
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-C;Verarbeitendes Gewerbe;180406;p;169514;p;12615;p;12254;p;7730;p;18230;p;50549;p;6056;p;74248;p;135468;p;33702;p;7842;p;26975;p;12627;p;16034;p;15256;p
+WZ08-D;Energieversorgung;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-F;Baugewerbe;27659;p;38638;p;7662;p;6016;p;1111;p;4400;p;13538;p;3551;p;19569;p;34637;p;9371;p;1736;p;9768;p;4878;p;6360;p;4259;p
+WZ08-G-T;Dienstleistungsbereiche;365449;p;487656;p;164024;p;64784;p;27471;p;121218;p;263144;p;40211;p;230862;p;589258;p;112117;p;26998;p;102170;p;47101;p;83826;p;46227;p
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;117678;p;151149;p;45665;p;17966;p;9457;p;47178;p;85216;p;11162;p;64836;p;178427;p;33413;p;7630;p;28650;p;12748;p;25914;p;11474;p
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;87515;p;111280;p;24419;p;16043;p;7721;p;36430;p;67910;p;10188;p;56209;p;138495;p;28290;p;5955;p;22663;p;11604;p;22796;p;9780;p
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-H;Verkehr und Lagerei;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-I;Gastgewerbe;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-J;Information und Kommunikation;30163;p;39870;p;21246;p;1923;p;1735;p;10748;p;17306;p;974;p;8628;p;39932;p;5123;p;1675;p;5987;p;1144;p;3118;p;1694;p
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;139640;p;197072;p;60196;p;20995;p;9000;p;46475;p;110134;p;11385;p;82966;p;210897;p;37307;p;9001;p;31657;p;13337;p;26860;p;13188;p
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;19707;p;31483;p;6014;p;1349;p;828;p;6568;p;28853;p;861;p;13294;p;29170;p;4885;p;1406;p;2861;p;1180;p;2986;p;1239;p
+WZ08-L;Grundstücks- und Wohnungswesen;53939;p;73073;p;20767;p;11110;p;3392;p;14981;p;32454;p;5471;p;33351;p;79061;p;17418;p;3945;p;12765;p;5982;p;13545;p;6021;p
+WZ08-M-N;Unternehmensdienstleistungen;65994;p;92516;p;33415;p;8536;p;4779;p;24925;p;48827;p;5052;p;36321;p;102666;p;15004;p;3649;p;16031;p;6175;p;10329;p;5927;p
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;108131;p;139434;p;58163;p;25824;p;9015;p;27565;p;67794;p;17665;p;83059;p;199934;p;41397;p;10367;p;41863;p;21017;p;31052;p;21566;p
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;91313;p;117432;p;46892;p;22746;p;7573;p;22511;p;57394;p;15502;p;72460;p;171521;p;35606;p;9102;p;36273;p;18520;p;26827;p;18832;p
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-P;Erziehung und Unterricht;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-Q;Gesundheits- und Sozialwesen;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;16818;p;22002;p;11271;p;3077;p;1442;p;5054;p;10400;p;2163;p;10599;p;28414;p;5791;p;1265;p;5590;p;2496;p;4225;p;2734;p
+WZ08-R;Kunst, Unterhaltung und Erholung;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-S;Erbringung von sonstigen Dienstleistungen;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-T;Private Haushalte;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+;Insgesamt;590623;p;721199;p;188819;p;91823;p;37381;p;147509;p;336396;p;55115;p;348936;p;796988;p;163785;p;38205;p;147642;p;72026;p;114437;p;70426;p
+2025;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+WZ08-A;Land- und Forstwirtschaft, Fischerei;3254;p;6881;p;5;p;1541;p;18;p;104;p;1101;p;1660;p;8667;p;5456;p;2379;p;86;p;2179;p;1894;p;2026;p;1702;p
+WZ08-B-F;Produzierendes Gewerbe;221380;p;231025;p;26051;p;25107;p;10433;p;27322;p;73264;p;14021;p;111612;p;204379;p;49608;p;10879;p;44081;p;22874;p;29413;p;23125;p
+WZ08-B-E;Produzierendes Gewerbe ohne Baugewerbe;193455;p;190919;p;17609;p;18884;p;9362;p;22975;p;59679;p;10395;p;90739;p;168165;p;39847;p;9038;p;34173;p;17831;p;22906;p;18693;p
+WZ08-B;Bergbau und Gewinnung von Steinen und Erden;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-C;Verarbeitendes Gewerbe;179202;p;172300;p;13014;p;11780;p;8321;p;19385;p;51618;p;6652;p;75776;p;135812;p;33818;p;7483;p;27171;p;12620;p;16723;p;15618;p
+WZ08-D;Energieversorgung;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-E;Wasserversorg.,Entsorg.,Beseitig.v.Umweltverschm.;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-F;Baugewerbe;27925;p;40106;p;8442;p;6223;p;1070;p;4347;p;13585;p;3626;p;20873;p;36214;p;9761;p;1841;p;9908;p;5043;p;6506;p;4433;p
+WZ08-G-T;Dienstleistungsbereiche;379028;p;507951;p;171472;p;67553;p;28470;p;124869;p;271678;p;41857;p;241135;p;613090;p;115664;p;28103;p;105739;p;49212;p;87327;p;48142;p
+WZ08-G-J;Handel, Verkehr, Lagerei, Gastgewerbe, Inf. u.Kom.;119467;p;156469;p;47378;p;18520;p;9742;p;47704;p;87187;p;11419;p;67116;p;182037;p;33860;p;7746;p;29367;p;13267;p;26956;p;11760;p
+WZ08-G-I;Handel, Verkehr und Lagerei, Gastgewerbe;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-G;Handel, Instandhaltung und Reparatur von Kfz;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-H;Verkehr und Lagerei;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-I;Gastgewerbe;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-J;Information und Kommunikation;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-K-N;Finanz-,Vers.-,UnternehmensDL,Grundst.-,Wohnungsw.;142676;p;201558;p;61963;p;21389;p;9136;p;47820;p;112644;p;11649;p;85189;p;217482;p;37941;p;9190;p;32171;p;13506;p;27329;p;13147;p
+WZ08-K;Erbringung v. Finanz- u. Versicherungsdienstleist.;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-L;Grundstücks- und Wohnungswesen;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-M-N;Unternehmensdienstleistungen;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-M;Freiberufliche, wiss. u. techn. Dienstleistungen;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-N;Sonstige wirtschaftliche Dienstleistungen;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-O-T;Öff.u.s.Dienstleist.,Erziehung,Gesundheit,priv.HH;116885;p;149924;p;62131;p;27644;p;9592;p;29344;p;71847;p;18789;p;88830;p;213571;p;43862;p;11167;p;44201;p;22439;p;33042;p;23236;p
+WZ08-O-Q;Öffentliche Dienstleistungen, Erziehung,Gesundheit;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-O;Öff. Verwaltung, Verteidigung, Sozialversicherung;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-P;Erziehung und Unterricht;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-Q;Gesundheits- und Sozialwesen;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-R-T;Kunst,Unterhaltung,Erholung, sonstige DL, priv.HH;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-R;Kunst, Unterhaltung und Erholung;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-S;Erbringung von sonstigen Dienstleistungen;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+WZ08-T;Private Haushalte;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;;...;
+;Insgesamt;603662;p;745857;p;197529;p;94200;p;38921;p;152295;p;346043;p;57538;p;361414;p;822925;p;167651;p;39068;p;151998;p;73980;p;118766;p;72970;p
+__________
+"Quelle:
+Arbeitskreis ""Volkswirtschaftliche Gesamtrechnungen der
+Länder"".
+
+Berechnungsstand: August 2025"
+© Statistisches Bundesamt (Destatis), 2026
+Stand: 21.05.2026 / 02:02:05

@@ -1,0 +1,16 @@
+row,First stage,PPML reduced form,PPML benchmark,Linear IV / 2SLS,CF-IV-PPML
+"IV: predicted exposure (/1,000)",0.998***,-0.0001,,,
+,(0.206),(0.0044),,,
+"Treatment: actual exposure (/1,000)",,,0.0001,0.0064,-0.0003
+,,,(0.0032),(0.0072),(0.0047)
+"First-stage residual (/1,000)",,,,,0.0009
+,,,,,(0.0103)
+Outcome,Treatment,Exports,Exports,log Exports,Exports
+Estimator,feols,fepois,fepois,feols-IV,fepois + CF
+Fixed effects:,,,,,
+  Bundesland × origin,Yes,Yes,Yes,Yes,Yes
+  Bundesland × year,Yes,Yes,Yes,Yes,Yes
+  Origin × year,Yes,Yes,Yes,Yes,Yes
+First-stage F,23.4,,,,
+Observations,"1,247","1,247","1,247","1,247","1,247"
+Clusters (pair),80,80,80,80,80
