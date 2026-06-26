@@ -121,13 +121,17 @@ MIT License (see [`LICENSE`](LICENSE)).
   ))
   ```
 
-  | Package | Version | | Package | Version |
-  |---|---|---|---|---|
-  | dplyr | 1.1.4 | | purrr | 1.2.0 |
-  | tidyr | 1.3.1 | | tibble | 3.3.0 |
-  | readr | 2.2.0 | | fixest | 0.14.1 |
-  | stringr | 1.5.2 | | broom | 1.0.10 |
-  | ggplot2 | 4.0.0 | | | |
+  | Package | Version | Role |
+  |---|---|---|
+  | dplyr | 1.1.4 | data manipulation |
+  | tidyr | 1.3.1 | reshaping |
+  | readr | 2.2.0 | reading CSVs |
+  | stringr | 1.5.2 | string cleaning |
+  | purrr | 1.2.0 | functional iteration |
+  | tibble | 3.3.0 | data frames |
+  | fixest | 0.14.1 | PPML / fixed-effects estimation |
+  | broom | 1.0.10 | tidy model output |
+  | ggplot2 | 4.0.0 | figures |
 
   Results — especially standard errors — can depend on the `fixest` version; pin it if
   exact reproduction matters.
