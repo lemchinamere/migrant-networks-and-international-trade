@@ -7,7 +7,7 @@ Replication code for the term paper *Migrant Networks and International Trade*
 (L. E. M. Chinamere, LMU Munich, seminar *The Causes and Consequences of Migration*,
 Summer Term 2026). The empirical part studies whether the inflow of protection seekers
 into the German _Länder_ during the 2015/16 asylum-seeker wave raised subsequent exports
-from those Länder to the migrants' origin countries.
+from those _Länder_ to the migrants' origin countries.
 
 ---
 
