@@ -91,6 +91,14 @@
 # Run from the project's data/ folder (see README). Falls back gracefully if started from the repo root.
 if (basename(getwd()) != "data" && dir.exists("data")) setwd("data")
 
+### Locale: read the UTF-8 data files correctly regardless of the ambient
+### locale. A bare Rscript in a C/POSIX locale otherwise mis-reads the UTF-8
+### CSVs (only the interactive RStudio/R.app UTF-8 locale would work).
+for (.utf8_locale in c("en_US.UTF-8", "C.UTF-8", "UTF-8")) {
+  if (suppressWarnings(Sys.setlocale("LC_CTYPE", .utf8_locale)) != "") break
+}
+rm(.utf8_locale)
+
 
 ### Packages
 

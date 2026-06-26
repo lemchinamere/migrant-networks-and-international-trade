@@ -89,6 +89,14 @@
 # Run from the project's data/ folder (see README). Falls back gracefully if started from the repo root.
 if (basename(getwd()) != "data" && dir.exists("data")) setwd("data")
 
+### Locale: read the UTF-8 data files correctly regardless of the ambient
+### locale. A bare Rscript in a C/POSIX locale otherwise mis-reads the UTF-8
+### CSVs (only the interactive RStudio/R.app UTF-8 locale would work).
+for (.utf8_locale in c("en_US.UTF-8", "C.UTF-8", "UTF-8")) {
+  if (suppressWarnings(Sys.setlocale("LC_CTYPE", .utf8_locale)) != "") break
+}
+rm(.utf8_locale)
+
 
 ### Packages
 
@@ -118,7 +126,8 @@ library(tibble)
 #   51000-0032_all_countries_de.csv
 #
 # Raw CEPII input file:
-#   Gravity_V202211.csv
+#   cepii_gravity_germany_subset.csv
+#   (Germany-origin subset of CEPII Gravity_V202211; see README, Section 2.)
 #
 # Notes:
 #   This script should stop early if a required input is missing, because all
@@ -133,7 +142,7 @@ required_input_files <- c(
   "13311-0002_de.csv",
   "82111-0011_de.csv",
   "51000-0032_all_countries_de.csv",
-  "Gravity_V202211.csv"
+  "cepii_gravity_germany_subset.csv"
 )
 
 missing_input_files <- required_input_files[
@@ -1442,8 +1451,8 @@ analysis_panel_controls_no_eritrea %>%
 # ============================================================
 #
 # Data source:
-#   CEPII Gravity Database
-#   Gravity_V202211.csv
+#   CEPII Gravity Database (Gravity_V202211), Germany-origin subset:
+#   cepii_gravity_germany_subset.csv
 #
 # Purpose:
 #   Clean CEPII gravity controls for Germany and the five origin countries
@@ -1470,7 +1479,10 @@ analysis_panel_controls_no_eritrea %>%
 # ============================================================
 
 cepii_gravity <- read.csv(
-  "Gravity_V202211.csv",
+  # Germany-origin subset of the full CEPII Gravity database (see README, Section 2).
+  # Pre-filtered to DEU -> the five origin countries, 2010-2021; the filter below is
+  # therefore a no-op on the subset and reproduces the same result as the full file.
+  "cepii_gravity_germany_subset.csv",
   stringsAsFactors = FALSE
 )
 
