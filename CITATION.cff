@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+title: "Migrant Networks and International Trade: Replication Package"
+abstract: >-
+  Replication code and data for the term paper "Migrant Networks and
+  International Trade" (LMU Munich). Using the 2015/16 refugee inflow to Germany
+  and the Königsteiner Schlüssel allocation rule as a shift-share instrument,
+  the project estimates with PPML whether predicted refugee exposure raised
+  exports from German Länder to migrants' origin countries. The headline result
+  is an informative null.
+type: software
+authors:
+  - family-names: Chinamere
+    given-names: Lisa Erin Mesoma
+    affiliation: "Ludwig-Maximilians-Universität München (LMU Munich)"
+version: "1.0.0"
+date-released: "2026-06-26"
+license: MIT
+repository-code: "https://github.com/lemchinamere/migrant-networks-and-international-trade"
+url: "https://github.com/lemchinamere/migrant-networks-and-international-trade"
+keywords:
+  - migrant networks
+  - international trade
+  - shift-share instrument
+  - PPML
+  - refugees
+  - Germany
+  - replication
