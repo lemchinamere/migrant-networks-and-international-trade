@@ -6,14 +6,14 @@
 Replication code for the term paper *Migrant Networks and International Trade*
 (L. E. M. Chinamere, LMU Munich, seminar *The Causes and Consequences of Migration*,
 Summer Term 2026). The empirical part studies whether the inflow of protection seekers
-into the German **Länder** during the 2015/16 asylum-seeker wave raised subsequent exports
+into the German _Länder_ during the 2015/16 asylum-seeker wave raised subsequent exports
 from those Länder to the migrants' origin countries.
 
 ---
 
 ## 1. Research question
 
-> **Did the 2015/16 refugee inflow into Germany raise Länder exports to the main origin
+> **Did the 2015/16 refugee inflow into Germany raise _Länder_ exports to the main origin
 > countries of protection seekers?**
 
 When migrants settle in a region they can lower trade costs to their origin country
