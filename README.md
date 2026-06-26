@@ -1,5 +1,8 @@
 # Migrant Networks and International Trade
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20938548.svg)](https://doi.org/10.5281/zenodo.20938548)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Replication code for the term paper *Migrant Networks and International Trade*
 (L. E. M. Chinamere, LMU Munich, seminar *The Causes and Consequences of Migration*,
 Summer Term 2026). The empirical part studies whether the inflow of protection seekers
