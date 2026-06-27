@@ -48,7 +48,7 @@ using the large, plausibly exogenous 2015/16 refugee inflow.
 | IV basis | `koenigstein_share_2015_2016_avg` (Königstein share averaged over 2015–2016) |
 | Origin countries | Afghanistan, Eritrea, Iraq, Iran, Syria |
 | Period | 2010–2025 (pre 2010–2014 · shock 2015–2016 · post 2017–2025) |
-| Fixed effects | Land×origin, Land×year, origin×year |
+| Fixed effects | Land × origin, Land × year, origin × year |
 | Preferred estimator | PPML (with linear 2SLS and control-function IV-style PPML as robustness) |
 
 The headline result is an **informative null**: predicted refugee exposure does not
